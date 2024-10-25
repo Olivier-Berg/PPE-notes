@@ -14,4 +14,8 @@ A)
 
 ---
 A)
-Tautologies: 1, 3, 5, 6, 
+Tautologies: 1, 3, 5, 6, 8
+Contradiction: 7
+neither: 2, 4, 9
+
+B)
