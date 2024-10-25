@@ -19,3 +19,6 @@ Contradiction: 7
 neither: 2, 4, 9
 
 ![[Documentscans 2.pdf]]
+
+D)
+1. Then wheneve
