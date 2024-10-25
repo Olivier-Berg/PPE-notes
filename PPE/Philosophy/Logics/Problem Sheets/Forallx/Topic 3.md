@@ -12,5 +12,6 @@ A)
 |     |     |                                                                         |
 ![[Documentscans.pdf]]
 
-$\double-turnstile$
+
+
 
