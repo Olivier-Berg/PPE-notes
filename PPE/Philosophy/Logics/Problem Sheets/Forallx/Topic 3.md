@@ -1,3 +1,4 @@
+#logics 
 A)
 1. $$\begin{array} {r|r} A & A \rightarrow A \\ \hline T & T\;\textbf{T}\;T \\ F & F\;\textbf{T}\;F \end{array}$$
 2. $$\begin{array} {r|r} C & C \rightarrow \neg C \\ \hline T & T\;\textbf{F}\;F\;T \\ F & F\;\textbf{T}\;T\;F \end{array}$$

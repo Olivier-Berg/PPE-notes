@@ -1,4 +1,4 @@
-#lecture
+#lecture #logics 
 
 sentences that are true or false are declarative sentences
 

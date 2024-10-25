@@ -1,3 +1,4 @@
+#logics 
 part 1 - key notions
 
 1. so i should...
