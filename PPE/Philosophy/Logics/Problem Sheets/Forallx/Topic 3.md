@@ -11,4 +11,7 @@ A)
 | F   | F   | FTF**T**TFFTF                                                           |
 |     |     |                                                                         |
 ![[Documentscans.pdf]]
+
 ---
+A)
+Tautologies: 1, 3, 5, 6, 
