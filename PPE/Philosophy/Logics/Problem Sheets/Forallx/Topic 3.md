@@ -24,4 +24,4 @@ D)
 1. Then whenever A is true, B is also true. And whenever A is false, B is also false. Therefore $A \leftrightarrow B$ is always true.
 2. ![[IMG_2645.png]]
 	Whenever $(A \land B) \rightarrow C$ is True (the first one), then A, B and C are also true. So therefore $A, B \models C$ is correct.
-3. 
+3. Nothing, in some cases they can all be true, even though they are tautologically consistent, and al
