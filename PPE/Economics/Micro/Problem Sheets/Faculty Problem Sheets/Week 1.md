@@ -1,3 +1,4 @@
+#microeconomics 
 2)
 a. 
 A: $y = 125 - \frac{1}{2}x$
