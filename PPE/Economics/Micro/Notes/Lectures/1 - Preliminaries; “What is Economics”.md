@@ -1,4 +1,4 @@
-#lecture 
+#lecture #microeconomics
 Economics examines how scarce resources are allocated and the mechanisms that facilitate this distribution.
 
 - markets are a mechanism for this allocation
