@@ -1,4 +1,6 @@
+#lecture 
 whether a model for behaviour (homo economicus) is correct can be tested empirically, it can be quantitavely falsified
+
 
 ---
 
