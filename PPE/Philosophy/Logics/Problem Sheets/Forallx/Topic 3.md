@@ -28,4 +28,6 @@ D)
 4. It is correct, anything follows from a contradiction, there is no case where all the premisses are true and the conclusion is false.
 5. It is correct, there is no case where all the premisses are true and the conclusion is false.
 6. It can be both true and false, whenever both A and B are true, $A \lor B$ is true, whenever both A and B are false, $A \lor B$ is false.
-7. 
+7. The same, there could still be a case where A and B are both false.
+
+E)
