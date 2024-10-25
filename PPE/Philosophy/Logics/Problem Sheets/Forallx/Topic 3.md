@@ -21,4 +21,5 @@ neither: 2, 4, 9
 ![[Documentscans 2.pdf]]
 
 D)
-1. Then wheneve
+1. Then whenever A is true, B is also true. And whenever A is false, B is also false. Therefore $A \leftrightarrow B$ is always true.
+2. 
