@@ -22,4 +22,4 @@ neither: 2, 4, 9
 
 D)
 1. Then whenever A is true, B is also true. And whenever A is false, B is also false. Therefore $A \leftrightarrow B$ is always true.
-2. ![[]]
+2. ![[IMG_2645.png]]
