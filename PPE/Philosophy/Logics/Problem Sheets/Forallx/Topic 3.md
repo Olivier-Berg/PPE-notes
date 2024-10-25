@@ -31,3 +31,4 @@ D)
 7. The same, there could still be a case where A and B are both false.
 
 E)
+Yes, 
