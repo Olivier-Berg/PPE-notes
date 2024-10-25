@@ -96,4 +96,4 @@ a binary relation is transitive iff you whenever can get from another point in m
 
 a binary relation is reflexive on another set if every element also has an arrow to themselves
 
-a binary relatio is a function iff
+a binary relatio is a fu
