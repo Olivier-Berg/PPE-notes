@@ -10,7 +10,6 @@ A)
 | T   | F   | TFF**T**FTTTF                                                           |
 | F   | T   | FFT**T**FFTFT                                                           |
 | F   | F   | FTF**T**TFFTF                                                           |
-|     |     |                                                                         |
 ![Documentscans](Documentscans.pdf)
 
 ---
