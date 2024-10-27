@@ -1,3 +1,3 @@
 $((\neg P \rightarrow \neg Q) \lor Q_{2}) \land P$
 $(\neg P \rightarrow \neg Q) \land Q_2 \land P$
-$\neg()$
+$\neg(P \land (P \rightarrow \neg Q) \land Q_1 \land P)$
