@@ -37,4 +37,5 @@ Yes, because they have the same truth table.
 
 **ASK WHETHER CHECKING FOR INCONSISTENCY ONLY REQUIRES A PARTIAL TRUTH TABLE**
 **SAME GOES FOR EVERY OTHER ONE (example: C4, B3, A6)**
+TLM: *"An argument is valid iff it does not have a counterexample."*
 ![Answers Forallx 49-52](Answers%20Forallx%2049-52.pdf)
