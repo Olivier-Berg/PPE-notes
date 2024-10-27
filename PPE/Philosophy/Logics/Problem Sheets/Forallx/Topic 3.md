@@ -23,7 +23,7 @@ neither: 2, 4, 9
 D)
 1. Then whenever A is true, B is also true. And whenever A is false, B is also false. Therefore $A \leftrightarrow B$ is always true.
 2. ![IMG_2645](Answer%20Forallx%2046%20D2.png)
-	Whenever $(A \land B) \rightarrow C$ is True (the first one), then A, B and C are also true. So therefore $A, B \models C$ is correct.
+	Whenever $(A \land B) \rightarrow C$ is True (the first one), then A, B and C are also true. So therefore $A, B \models C$ is correct. See also, TLM page 43.
 3. There has to be a case where it is false, because they are tautologically inconsistent, they cannot always all be true. 
 4. It is correct, anything follows from a contradiction, there is no case where all the premisses are true and the conclusion is false.
 5. It is correct, there is no case where all the premisses are true and the conclusion is false.
