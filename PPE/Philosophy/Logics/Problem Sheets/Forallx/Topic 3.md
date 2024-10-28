@@ -44,5 +44,3 @@ TLM: *"An argument is valid iff it does not have a counterexample."*, see also: 
 [[exercises week 2.pdf]]
 
 **Ask about whether "all tortoises are toothless" cannot be translated as if it was "if tortoise then toothless".**
-
-
