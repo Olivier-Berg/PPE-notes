@@ -1,4 +1,4 @@
-#lecture #politics
+#lecture #theory-of-politics
 Biography:
 
 1632: Born to a Somerset lawyer (not aristocratic but also not poor), close to Puritanism (father still part of Anglican Church).

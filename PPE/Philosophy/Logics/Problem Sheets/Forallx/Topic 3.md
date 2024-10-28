@@ -39,3 +39,7 @@ Yes, because they have the same truth table.
 **SAME GOES FOR EVERY OTHER ONE (example: C4, B3, A6)**
 TLM: *"An argument is valid iff it does not have a counterexample."*, see also: page 44-45 TLM, for these excercises I did not do the indices...
 ![Answers Forallx 49-52](Answers%20Forallx%2049-52.pdf)
+
+**Ask about question 3.5i, it is separate of eachother**
+[[excercises week 2.pdf]]
+

@@ -135,3 +135,4 @@ $$(H \implies I), [(H \implies I) \lor (I \implies H)], (I \implies H), [(H \imp
 D)
 
 The count will always already be 1 when you start (because a sentence starts with a bracket), so the first connective will be the main logical operator. However, if the first logical operator is inside nested brackets then the count will return to 1 after you have passed those brackets, so you will always get the right operator.
+[[exercises week 1.pdf]]
