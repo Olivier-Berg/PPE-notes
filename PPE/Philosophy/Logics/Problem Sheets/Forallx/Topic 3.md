@@ -41,5 +41,5 @@ TLM: *"An argument is valid iff it does not have a counterexample."*, see also: 
 ![Answers Forallx 49-52](Answers%20Forallx%2049-52.pdf)
 
 **Ask about question 3.5i, it is separate of eachother**
-[[excercises week 2.pdf]]
+[[exercises week 2.pdf]]
 
