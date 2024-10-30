@@ -96,4 +96,4 @@ For every item, the workers can buy more or the same amount of that item that be
 
 h.
 - Countries benefit from trade and specialisation.
-- Lowering wages does not necessarily mean that workers can buy less, their money might become worth more in terms of th
+- Lowering wages does not necessarily mean that workers can buy less, their money might become worth more in terms of the goods that they can buy.

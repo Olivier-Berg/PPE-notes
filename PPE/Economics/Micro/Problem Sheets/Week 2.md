@@ -1,6 +1,8 @@
 3.
-
+$Q_D = a - bp$ 
 ```desmos-graph
-a = 
+a = 1
+b = 1
 Q_D = a - b*p
 ```
+
