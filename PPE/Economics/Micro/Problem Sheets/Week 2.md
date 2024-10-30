@@ -7,8 +7,10 @@ bottom=-2; top=2;
 ---
 a = 1
 b = 1
-Q_D = a - b*p
+y = \frac{a}{b} - \frac{1}{b}x | y >= 0
 ```
+
+
 
 
 
