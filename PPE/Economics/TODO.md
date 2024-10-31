@@ -7,6 +7,6 @@
 - [ ] CORE 8
 - [ ] P 2
 	- [ ] Review page 50 again after maths workbook is done
-- [ ] Departmental Tute Sheet Problems 3*, 4*, and 8*
-- [ ] College Tute Sheet Question 1*
+- [x] Departmental Tute Sheet Problems 3*, 4*, and 8*
+- [x] College Tute Sheet Question 1*
 - [ ] Math chapter 7
