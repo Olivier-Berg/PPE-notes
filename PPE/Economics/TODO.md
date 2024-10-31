@@ -2,6 +2,7 @@
 - [x] Math chapter 5-6
 - [x] Departmental Tute Sheet Problems 2* and 3*
 - [ ] CORE 1 & 2 (2.6)
+- [ ] Review tutorial notes Rohan
 
 ## Week 2
 - [ ] CORE 8
@@ -11,3 +12,5 @@
 - [x] Departmental Tute Sheet Problems 3*, 4*, and 8*
 - [x] College Tute Sheet Question 1*
 - [ ] Math chapter 7
+- [ ] Review tutorial notes Rohan
+
