@@ -8,3 +8,4 @@ A)
 	Former is false if pink is false, whereas latter is true if pink is false.
 - $\forall x (Gx \rightarrow Fx), \exists x (Hx \land Gx) \therefore \exists x (Hx \land Fx)$
 - $\forall x (Fx \rightarrow Gx), \forall x (Hx \rightarrow \neg Gx), \forall x (Hx \rightarrow \neg Fx)$
+- 
