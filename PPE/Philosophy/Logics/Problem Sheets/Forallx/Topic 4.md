@@ -11,4 +11,8 @@ A)
 - $\forall x (Fx \rightarrow Gx), \forall x (Hx \rightarrow \neg Gx) \therefore \forall x (Hx \rightarrow \neg Fx)$
 - $\forall x (Fx \rightarrow \neg Gx), \forall x (Hx \rightarrow Gx) \therefore \forall x (Hx \rightarrow \neg Fx)$
 - $\forall x (Fx \rightarrow Gx), \exists x \neg (Hx \land Gx) \therefore \exists x \neg (Hx \land Fx)$
-- 
+- $\forall x ($
+- ...
+
+B)
+1. $
