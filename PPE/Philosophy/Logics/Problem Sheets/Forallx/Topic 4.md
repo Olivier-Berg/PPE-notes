@@ -113,4 +113,5 @@ D)
 1. $\forall x (Cxp \rightarrow Dx)$
 2. $Fj \land Cjp$
 3. $\exists x (Fx \land Cxp)$
-4. $\$
+4. $\neg \exists x Sxj$
+5. 
