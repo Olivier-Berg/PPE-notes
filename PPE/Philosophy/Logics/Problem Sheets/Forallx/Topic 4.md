@@ -32,4 +32,4 @@ C)
 
 D)
 1. Domain: all people
-	
+	$_1$
