@@ -9,4 +9,5 @@ A)
 		(Page 60 on forallx)
 - $\forall x (Gx \rightarrow Fx), \exists x (Hx \land Gx) \therefore \exists x (Hx \land Fx)$
 - $\forall x (Fx \rightarrow Gx), \forall x (Hx \rightarrow \neg Gx) \therefore \forall x (Hx \rightarrow \neg Fx)$
-- $\forall x (Fx \rightarrow \neg Gx), \forall x (Hx \rightarrow Gx) \therefore $
+- $\forall x (Fx \rightarrow \neg Gx), \forall x (Hx \rightarrow Gx) \therefore \forall x (Hx \rightarrow \neg Fx)$
+- 
