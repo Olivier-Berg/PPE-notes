@@ -51,8 +51,9 @@ D)
 4. Domain: everything
 	A: ... has been to australia
 	K: ... has seen a kangaroo
-	Z: ... has
+	Z: ... has been to a zoo
 	h: Holmes
 	w: Watson
+	$\neg (Kh \lor Kw), $
 	
 	
