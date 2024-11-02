@@ -46,6 +46,7 @@ D)
 3. Domain: everything
 	D: ... is a dream
 	B: ... is in black and white
-	o: ol
+	o: old TV-shows
+	$\forall x (Dx \rightarrow Bx), Bo, \exists x ($
 	
 	
