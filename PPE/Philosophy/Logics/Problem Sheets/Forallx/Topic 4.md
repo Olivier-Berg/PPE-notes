@@ -59,8 +59,9 @@ D)
 	S: ... expects the spanish inquisition
 	T: ... knows the troubles i have seen
 	$\forall x \neg Sx, \forall x \neg Tx \therefore \forall x (Sx \rightarrow Tx)$ 
-6. Domain:
+6. Domain: all people
 	B: is a baby
 	I: is illogical
 	C: can manage a crocodile
-	
+	b: Berthold
+	$\forall x (Bx \rightarrow Ix), \forall x (Ix \neg Cx)$
