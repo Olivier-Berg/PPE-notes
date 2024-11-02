@@ -107,4 +107,4 @@ C)
 6. $\neg \exists x (Px \land Lfx) \land \neg \exists y (Py \land Lyf)$P
 7. $\forall x ((Px \land Lxg) \rightarrow Lex)$
 8. $\forall x ((Px \land \forall y (Py \land Ley \land Lxy)) \rightarrow Lex)$
-9. 
+9. $\exists x (Px \land $
