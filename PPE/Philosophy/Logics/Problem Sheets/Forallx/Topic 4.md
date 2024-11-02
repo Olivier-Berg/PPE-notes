@@ -56,7 +56,7 @@ D)
 	Z: ... has been to a zoo
 	h: Holmes
 	w: Watson
-	$\neg (Kh \lor Kw), \forall x (Kx \leftrightarrow (Ax \lor Zx)), \neg Kw \land Kh \therefore Zh$
+	$\neg (Ah \lor Aw), \forall x (Kx \rightarrow (Ax \lor Zx)), \neg Kw \land Kh \therefore Zh$
 5. Domain: All people
 	S: ... expects the spanish inquisition
 	T: ... knows the troubles i have seen
