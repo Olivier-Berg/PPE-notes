@@ -58,5 +58,9 @@ D)
 5. Domain: All people
 	S: ... expects the spanish inquisition
 	T: ... knows the troubles i have seen
-	$\forall x \neg Sx, \forall x \neg Tx \therefore \forall x (Sx \rightarrow Tx$ 
+	$\forall x \neg Sx, \forall x \neg Tx \therefore \forall x (Sx \rightarrow Tx)$ 
+6. Domain:
+	B: is a baby
+	I: is illogical
+	C: can manage a crocodile
 	
