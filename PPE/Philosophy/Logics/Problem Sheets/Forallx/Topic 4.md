@@ -17,4 +17,5 @@ A)
 B)
 1. $\neg (Vh \lor Vi)$
 2. $\forall x (Sx \rightarrow \neg Kx)$
-3. $\forall x \neg Kx \lor Ki$ **SHOULDNT IN IN THIS CASE BE AN XOR BECAUSE IT IS IMPOSSIBLE FOR BOTH OF THEM TO BE TRUE, OR IS THAT IRRE
+3. $\forall x \neg Kx \lor Ki$ **SHOULDNT IN IN THIS CASE BE AN XOR BECAUSE IT IS IMPOSSIBLE FOR BOTH OF THEM TO BE TRUE, OR IS THAT IRRELEVANT BECAUSE IT IS ALREADY SAID IN THE FIRST PART???**
+4. $Sh \land \neg \exists x ($
