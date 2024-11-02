@@ -92,5 +92,7 @@ B)
 11. $\exists x((Lbx \land Lxe) \lor (Lex \land Lxb))$
 12. $\exists x (Dx \land \neg ((Lbx \land Lxe) \lor (Lex \land Lxb)))$
 13. $\neg \exists x (Dx \land Lxx)$
-14. $\forall x \exists y Lxy$
-15. 
+14. $\forall x (Dx \land \exists y (Dy \land Lxy))$
+15. $$
+16. 
+17. 
