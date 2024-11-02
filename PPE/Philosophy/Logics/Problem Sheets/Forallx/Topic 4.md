@@ -49,7 +49,7 @@ D)
 	D: ... is a dream
 	B: ... is in black and white
 	O: ... is an old tv show
-	$\forall x (Dx \rightarrow Bx), \forall x \therefore \exists x (Dx \land Bx)$
+	$\forall x (Dx \rightarrow Bx), \forall x (Ox \rightarrow Bx) \therefore \exists x (Dx \land Bx)$
 4. Domain: all people
 	A: ... has been to australia
 	K: ... has seen a kangaroo
