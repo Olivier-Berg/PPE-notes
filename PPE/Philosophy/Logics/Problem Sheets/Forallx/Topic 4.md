@@ -86,5 +86,5 @@ B)
 5. $\forall x (Sx \rightarrow Dx)$
 6. $\exists x (Dx \land Lxe)$
 7. $\exists x (Dx \land Lxf) \rightarrow \exists y (Dy \land Lye)$
-9. $\forall x (Sx \rightarrow \neg Lxe)$
-10. $\forall x (Dx \$
+8. $\forall x (Sx \rightarrow \neg Lxe)$
+9. $\forall x (Dx \$
