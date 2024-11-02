@@ -48,12 +48,12 @@ D)
 	B: ... is in black and white
 	o: old TV-shows
 	$\forall x (Dx \rightarrow Bx), Bo \therefore \exists x (Dx \land Bx)$
-4. Domain: everything
+4. Domain: all people
 	A: ... has been to australia
 	K: ... has seen a kangaroo
 	Z: ... has been to a zoo
 	h: Holmes
 	w: Watson
-	$\neg (Kh \lor Kw), $
+	$\neg (Kh \lor Kw), \forall x $
 	
 	
