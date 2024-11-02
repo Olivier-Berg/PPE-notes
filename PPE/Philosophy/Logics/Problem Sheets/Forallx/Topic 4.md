@@ -23,4 +23,6 @@ B)
 C)
 1. $Za \land Zb \land Zc$
 2. $Rb \land \neg Ab$
-3. $\exists x $
+3. $\exists x (Rx \land Zx)$
+4. $\forall x (Ax \rightarrow Rx)$
+5. $\forall x (Zx \$
