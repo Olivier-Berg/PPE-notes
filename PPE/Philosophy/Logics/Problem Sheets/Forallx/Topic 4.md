@@ -105,4 +105,5 @@ C)
 4. $\exists x Lxg \rightarrow Leg$
 5. $\forall x (Fx \rightarrow (Lfx \rightarrow Rx))$
 6. $\neg \exists x (Px \land Lfx) \land \neg \exists y (Py \land Lyf)$P
-7. $\forall x ((Px \rightarrow Lxg) $
+7. $\forall x ((Px \land Lxg) \rightarrow Lex)$
+8. $\forall x ((Px $
