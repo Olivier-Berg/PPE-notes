@@ -83,3 +83,4 @@ B)
 2. $Db \land De \land Df$
 3. $Leb \land Lfe$
 4. $\forall x (Dx \rightarrow Sx)$
+5. $\forall x (Dx \rightarrow Sx)$
