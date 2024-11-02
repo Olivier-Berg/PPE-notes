@@ -31,4 +31,5 @@ C)
 8. $\forall x (Ax \rightarrow Rx)$
 
 D)
-1. Domain: all peop
+1. Domain: all people
+	
