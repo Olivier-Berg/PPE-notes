@@ -72,8 +72,8 @@ D)
 A)
 1. $Lcb \rightarrow Mb$
 2. $(Ab \land Ac) \rightarrow (Lab \land Lac)$
-3. $\exists x Lcx$
-4. $\forall x (Zx \rightarrow Lbx)$
+3. $\exists x (Rx \land Lcx)$
+4. $\forall x ((Mx \land Zx) \rightarrow Lbx)$
 5. $\forall x (Lax \rightarrow Lxa)$
 6. $\forall x (Lcx \rightarrow Lax)$
 7. $\exists x Lxb$
