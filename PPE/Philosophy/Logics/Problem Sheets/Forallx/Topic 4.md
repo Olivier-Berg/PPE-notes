@@ -27,4 +27,7 @@ C)
 4. $\forall x (Ax \rightarrow Rx)$
 5. $\forall x (Zx \rightarrow (Mx \lor Ax))$
 6. $\exists x (Rx \land Ax)$
-7. $\$
+7. $\exists x Rx \rightarrow Ra$
+8. $\forall x (Ax \rightarrow Rx)$
+
+D)
