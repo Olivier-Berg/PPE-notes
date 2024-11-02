@@ -45,6 +45,7 @@ D)
 	$\forall x (Dx \rightarrow \neg Ax), Dc \therefore \neg Ac$
 3. Domain: everything
 	D: ... is a dream
-	
+	B: ... is in black and white
+	o: ol
 	
 	
