@@ -44,7 +44,7 @@ D)
 	~~c: computer~~ **A computer does not refer to one specific thing**
 	NOT: ~~$\forall x (Dx \rightarrow \neg Ax), Dc \therefore \neg Ac$~~
 	C: is a computer
-	$\forall x (Dx \rightarrow \neg Ax), Dc \therefore \neg Ac$
+	$\forall x (Dx \rightarrow \neg Ax), \exists x (Cx \land Dx) \therefore \exists x (Cx \land \neg $
 3. Domain: everything
 	D: ... is a dream
 	B: ... is in black and white
