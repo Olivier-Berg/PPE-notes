@@ -16,4 +16,5 @@ A)
 
 B)
 1. $\neg (Vh \lor Vi)$
-2. 
+2. $\forall x (Sx \rightarrow \neg Kx)$
+3. 
