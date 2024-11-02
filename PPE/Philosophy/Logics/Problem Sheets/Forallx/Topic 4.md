@@ -44,12 +44,12 @@ D)
 	~~c: computer~~ **A computer does not refer to one specific thing**
 	NOT: ~~$\forall x (Dx \rightarrow \neg Ax), Dc \therefore \neg Ac$~~
 	C: is a computer
-	$\forall x (Dx \rightarrow \neg Ax), \exists x (Cx \land Dx) \therefore \exists x (Cx \land \neg $
+	$\forall x (Dx \rightarrow \neg Ax), \exists x (Cx \land Dx) \therefore \exists x (Cx \land \neg Ax)$
 3. Domain: everything
 	D: ... is a dream
 	B: ... is in black and white
-	o: old TV-shows
-	$\forall x (Dx \rightarrow Bx), Bo \therefore \exists x (Dx \land Bx)$
+	O: ... is an old tv show
+	$\forall x (Dx \rightarrow Bx), \forall x \therefore \exists x (Dx \land Bx)$
 4. Domain: all people
 	A: ... has been to australia
 	K: ... has seen a kangaroo
