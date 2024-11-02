@@ -54,6 +54,6 @@ D)
 	Z: ... has been to a zoo
 	h: Holmes
 	w: Watson
-	$\neg (Kh \lor Kw), \forall x $
+	$\neg (Kh \lor Kw), \forall x (Kx \leftrightarrow (Ax \lor Zx)), Kw \land $
 	
 	
