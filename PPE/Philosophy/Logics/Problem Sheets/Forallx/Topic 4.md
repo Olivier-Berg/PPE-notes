@@ -98,3 +98,4 @@ B)
 	SHOULD BE:
 	$\forall x (\forall y (Dy \land Lxy) \rightarrow Sx)$
 
+C)
