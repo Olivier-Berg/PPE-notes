@@ -38,5 +38,7 @@ D)
 	$Lw, \forall x (Lx \rightarrow Hx) \therefore Hw$
 2. Domain: all things
 	A: ...$_1$ escapes my attention
-	D: ...$_1$ 
+	D: ...$_1$ is on my desk
+	c: computer
+	
 	
