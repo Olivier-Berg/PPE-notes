@@ -42,5 +42,7 @@ D)
 	A: ...$_1$ escapes my attention
 	D: ...$_1$ is on my desk
 	c: computer
+	$\forall x (Dx \rightarrow \neg Ax), Dc \therefore \neg Ac$
+	
 	
 	
