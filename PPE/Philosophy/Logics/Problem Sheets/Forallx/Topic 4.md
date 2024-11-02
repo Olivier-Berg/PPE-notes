@@ -25,4 +25,6 @@ C)
 2. $Rb \land \neg Ab$
 3. $\exists x (Rx \land Zx)$
 4. $\forall x (Ax \rightarrow Rx)$
-5. $\forall x (Zx \$
+5. $\forall x (Zx \rightarrow (Mx \lor Ax))$
+6. $\exists x (Rx \land Ax)$
+7. $\$
