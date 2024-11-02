@@ -64,4 +64,5 @@ D)
 	I: is illogical
 	C: can manage a crocodile
 	b: Berthold
-	$\forall x (Bx \rightarrow Ix), \forall x (Ix \neg Cx)$
+	$\forall x (Bx \rightarrow Ix), \forall x (Ix \neg Cx), Bb \therefore \neg Cb$
+	
