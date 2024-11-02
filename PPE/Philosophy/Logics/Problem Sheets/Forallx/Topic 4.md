@@ -94,4 +94,5 @@ B)
 13. $\neg \exists x (Dx \land Lxx)$
 14. $\forall x (Dx \rightarrow \exists y (Dy \land Lxy))$
 15. $\exists x \forall y (Dy \rightarrow \neg Lxy)$
-16. $\exists x \forall y (Dy \$ 
+16. $\exists x \forall y (Dy \rightarrow Lxy) \rightarrow Sx$
+17. 
