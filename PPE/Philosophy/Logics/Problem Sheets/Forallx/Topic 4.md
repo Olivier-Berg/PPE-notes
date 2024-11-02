@@ -89,4 +89,4 @@ B)
 8. $\forall x (Sx \rightarrow \neg Lxe)$
 9. $\forall x (Dx \rightarrow \neg Lxf$
 10. $\forall x (\neg Sx \rightarrow Lxb)$
-11. 
+11. $\exists x((Lbx \land L$
