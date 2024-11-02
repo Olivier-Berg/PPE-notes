@@ -70,4 +70,5 @@ D)
 
 ---
 A)
-1. $$
+1. $Lcb \rightarrow Mb$
+2. 
