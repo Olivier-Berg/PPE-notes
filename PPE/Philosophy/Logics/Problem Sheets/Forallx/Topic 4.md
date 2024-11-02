@@ -32,4 +32,7 @@ C)
 
 D)
 1. Domain: all people
-	$_1$
+	L: ...$_1$ is a logician
+	H: ...$_1$ wears funny hats
+	w: Willard
+	$Lw, $
