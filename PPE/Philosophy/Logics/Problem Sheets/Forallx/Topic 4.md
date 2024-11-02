@@ -6,6 +6,7 @@ A)
 	For all roses, if it is pink, then it is not poisonous.
 		Every pink rose is poisonous.
 	Former is false if pink is false, whereas latter is true if pink is false.
+		(Page 60 on forallx)
 - $\forall x (Gx \rightarrow Fx), \exists x (Hx \land Gx) \therefore \exists x (Hx \land Fx)$
 - $\forall x (Fx \rightarrow Gx), \forall x (Hx \rightarrow \neg Gx), \forall x (Hx \rightarrow \neg Fx)$
 - 
