@@ -43,6 +43,8 @@ D)
 	D: ...$_1$ is on my desk
 	c: computer
 	$\forall x (Dx \rightarrow \neg Ax), Dc \therefore \neg Ac$
+3. Domain: everything
+	D: ... is a dream
 	
 	
 	
