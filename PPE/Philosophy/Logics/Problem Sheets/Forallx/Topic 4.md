@@ -56,5 +56,7 @@ D)
 	w: Watson
 	$\neg (Kh \lor Kw), \forall x (Kx \leftrightarrow (Ax \lor Zx)), \neg Kw \land Kh \therefore Zh$
 5. Domain: All people
-	
+	S: ... expects the spanish inquisition
+	T: ... knows the troubles i have seen
+	$\forall x \neg Sx$ 
 	
