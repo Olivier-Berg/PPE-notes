@@ -69,3 +69,5 @@ D)
 	$\forall x (Bx \rightarrow Ix), \forall x (Ix \neg Cx), Bb \therefore \neg Cb$
 
 ---
+A)
+1. $$
