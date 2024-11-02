@@ -110,3 +110,4 @@ C)
 9. $\exists x (Px \land Tx) \rightarrow \forall y (Fy \rightarrow Ry)$
 
 D)
+1. $\forall x (Cxp \rightarrow $
