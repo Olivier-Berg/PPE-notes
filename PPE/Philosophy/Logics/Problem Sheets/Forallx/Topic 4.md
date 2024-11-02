@@ -47,6 +47,8 @@ D)
 	D: ... is a dream
 	B: ... is in black and white
 	o: old TV-shows
-	$\forall x (Dx \rightarrow Bx), Bo, \exists x ($
+	$\forall x (Dx \rightarrow Bx), Bo \therefore \exists x (Dx \land Bx)$
+	
+	
 	
 	
