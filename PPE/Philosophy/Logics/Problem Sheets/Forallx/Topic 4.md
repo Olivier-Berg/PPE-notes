@@ -85,5 +85,5 @@ B)
 4. $\forall x (Dx \rightarrow Sx)$
 5. $\forall x (Sx \rightarrow Dx)$
 6. $\exists x (Dx \land Lxe)$
-7. $\exists x (Dx \land Lxf) \rightarrow $
+7. $\exists x (Dx \land Lxf) \rightarrow \exists y (Dy \land Lye)$
 8. 
