@@ -35,4 +35,5 @@ D)
 	L: ...$_1$ is a logician
 	H: ...$_1$ wears funny hats
 	w: Willard
-	$Lw, $
+	$Lw, \forall x (Lx \rightarrow Hx) \therefore Hw$
+2. Domain: Items on my
