@@ -103,4 +103,5 @@ C)
 2. $\neg Rg \rightarrow Tg$
 3. $\forall x (Px \rightarrow Lxg)$
 4. $\exists x Lxg \rightarrow Leg$
-5. $\forall x (Fx \rightarrow $
+5. $\forall x (Fx \rightarrow (Lfx \rightarrow Rx))$
+6. 
