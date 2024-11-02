@@ -75,8 +75,8 @@ A)
 3. $\exists x (Rx \land Lcx)$
 4. $\forall x ((Mx \land Zx) \rightarrow Lbx)$
 5. $\forall x (Lax \rightarrow Lxa)$
-6. $\forall x (Lcx \rightarrow Lax)$
-7. $\exists x Lxb$
+6. $\forall x ((Mx \land Lcx) \rightarrow Lax)$
+7. $\exists x (Mx \land Lxb)$ **Ask whether this is ok, omiting the 
 
 B)
 1. $Db \land Sb$
