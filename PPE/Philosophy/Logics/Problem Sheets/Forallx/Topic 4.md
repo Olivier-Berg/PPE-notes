@@ -71,4 +71,5 @@ D)
 ---
 A)
 1. $Lcb \rightarrow Mb$
-2. 
+2. $(Ab \land Ac) \rightarrow (Lab \land Lac)$
+3. 
