@@ -84,5 +84,6 @@ B)
 3. $Leb \land Lfe$
 4. $\forall x (Dx \rightarrow Sx)$
 5. $\forall x (Sx \rightarrow Dx)$
-6. 
-7. 
+6. $\exists x (Dx \land Lxe)$
+7. $$
+8. 
