@@ -106,7 +106,7 @@ C)
 5. $\forall x ((Fx \land Lfx) \rightarrow Rx))$
 6. $\neg \exists x (Px \land Lfx) \land \neg \exists y (Py \land Lyf)$P
 7. $\forall x ((Px \land Lxg) \rightarrow Lex)$
-8. $\forall x ((Px \land \forall y ((Py \land Ley \land Lxy)) \rightarrow Lex)$
+8. $\forall x ((Px \land \forall y ((Py \land Ley) \rightarrow Lxy)) \rightarrow Lex)$
 9. $\exists x (Px \land Tx) \rightarrow \forall y (Fy \rightarrow Ry)$
 
 D)
