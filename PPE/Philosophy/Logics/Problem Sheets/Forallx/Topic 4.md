@@ -99,3 +99,5 @@ B)
 	$\forall x (\forall y (Dy \land Lxy) \rightarrow Sx)$
 
 C)
+1. $\forall x (Fx \rightarrow Tx)$ 
+2. $$
