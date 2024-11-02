@@ -104,4 +104,5 @@ C)
 3. $\forall x (Px \rightarrow Lxg)$
 4. $\exists x Lxg \rightarrow Leg$
 5. $\forall x (Fx \rightarrow (Lfx \rightarrow Rx))$
-6. $\neg \exists x (Lfx) \land $
+6. $\neg \exists x Lfx \land \neg \exists y Lyf$
+7. 
