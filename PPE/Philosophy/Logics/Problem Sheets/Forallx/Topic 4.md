@@ -76,7 +76,7 @@ A)
 4. $\forall x ((Mx \land Zx) \rightarrow Lbx)$
 5. $\forall x (Lax \rightarrow Lxa)$
 6. $\forall x ((Mx \land Lcx) \rightarrow Lax)$
-7. $\exists x (Mx \land Lxb)$ **Ask whether this is ok, omiting the 
+7. $\exists x (Mx \land Lxb)$ **Ask whether this is ok, omiting the not reciprocal part because it is logically equivalent**
 
 B)
 1. $Db \land Sb$
@@ -84,7 +84,7 @@ B)
 3. $Leb \land Lfe$
 4. $\forall x (Dx \rightarrow Sx)$
 5. $\forall x (Sx \rightarrow Dx)$
-6. $\exists x (Dx \land Lxe)$
+6. $\exists x (Dx \land Lxe)$ 
 7. $\exists x (Dx \land Lxf) \rightarrow \exists y (Dy \land Lye)$
 8. $\forall x (Sx \rightarrow \neg Lxe)$
 9. $\forall x (Dx \rightarrow \neg Lxf$
