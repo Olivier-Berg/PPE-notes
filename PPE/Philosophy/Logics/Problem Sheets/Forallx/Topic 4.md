@@ -93,7 +93,7 @@ B)
 12. $\neg \exists x (Dx \land \neg ((Lbx \land Lxe) \lor (Lex \land Lxb)))$
 13. $\neg \exists x (Dx \land Lxx)$
 14. $\forall x (Dx \rightarrow \exists y (Dy \land Lxy))$
-15. $\exists x \forall y (Dy \rightarrow Lxy)$
+15. $\exists x \forall y (Dy \rightarrow Lyx)$
 16. $\exists x \forall y (Dy \rightarrow Lxy) \rightarrow \neg Sx$ **HOW DOES THIS WORK, YOU'RE PAST THE SCOPE OF THE VARIABLE (contrast with number 7)**
 	SHOULD BE:
 	$\forall x (\forall y (Dy \land Lxy) \rightarrow Sx)$
@@ -104,4 +104,4 @@ C)
 3. $\forall x (Px \rightarrow Lxg)$
 4. $\exists x Lxg \rightarrow Leg$
 5. $\forall x (Fx \rightarrow (Lfx \rightarrow Rx))$
-6. 
+6. $\neg \exists x (Lfx) \land $
