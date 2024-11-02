@@ -94,5 +94,4 @@ B)
 13. $\neg \exists x (Dx \land Lxx)$
 14. $\forall x (Dx \rightarrow \exists y (Dy \land Lxy))$
 15. $\exists x \forall y (Dy \rightarrow \neg Lxy)$
-16. $\exists x \forall y (Dy \rightarrow Lxy) \rightarrow Sx$
-17. 
+16. $\exists x \forall y (Dy \rightarrow Lxy) \rightarrow \neg Sx$ **HOW DOES THIS WORK, YOU'RE PAST THE SCOPE OF THE VARIABLE**
