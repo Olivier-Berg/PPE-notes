@@ -21,4 +21,6 @@ B)
 4. $Sh \land \neg \exists x (Vx \land Sx)$
 
 C)
-1. $Z$
+1. $Za \land Zb \land Zc$
+2. $Rb \land \neg Ab$
+3. $\exists x $
