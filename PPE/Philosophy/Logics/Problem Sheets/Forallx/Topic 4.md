@@ -102,4 +102,5 @@ C)
 1. $\forall x (Fx \rightarrow Tx)$ 
 2. $\neg Rg \rightarrow Tg$
 3. $\forall x (Px \rightarrow Lxg)$
-4. 
+4. $\exists x Lxg \rightarrow Leg$
+5. 
