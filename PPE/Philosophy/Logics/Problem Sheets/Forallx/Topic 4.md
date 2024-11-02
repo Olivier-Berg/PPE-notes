@@ -100,4 +100,6 @@ B)
 
 C)
 1. $\forall x (Fx \rightarrow Tx)$ 
-2. $$
+2. $\neg Rg \rightarrow Tg$
+3. $\forall x (Px \rightarrow Lxg)$
+4. 
