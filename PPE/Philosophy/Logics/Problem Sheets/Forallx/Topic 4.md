@@ -77,4 +77,6 @@ A)
 5. $\forall x (Lax \rightarrow Lxa)$
 6. $\forall x (Lcx \rightarrow Lax)$
 7. $\exists x Lxb$
-8. 
+
+B)
+1. $Db \land $
