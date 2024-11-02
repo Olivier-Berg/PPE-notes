@@ -36,4 +36,7 @@ D)
 	H: ...$_1$ wears funny hats
 	w: Willard
 	$Lw, \forall x (Lx \rightarrow Hx) \therefore Hw$
-2. Domain: Items on my
+2. Domain: all things
+	A: ...$_1$ escapes my attention
+	D: ...$_1$ 
+	
