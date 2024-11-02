@@ -79,4 +79,6 @@ A)
 7. $\exists x Lxb$
 
 B)
-1. $Db \land $
+1. $Db \land Sb$
+2. $Db \land De \land Df$
+3. 
