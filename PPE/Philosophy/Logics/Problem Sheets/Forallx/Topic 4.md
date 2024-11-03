@@ -114,3 +114,4 @@ D)
 2. $Fj \land Cjp$
 3. $\exists x (Fx \land Cxp)$
 4. $\neg \exists x Sxj$
+![[Documentscans.pdf]]
