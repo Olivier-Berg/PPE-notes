@@ -9,5 +9,6 @@ Why can only P, Q and R be predicate letters? page 82
 why only a, b, c constants
 and only xyz variables
 
+p. 91: why can't "... has a computer" not just be a predicate, why does it have to be "... has ..."
 
 ---
