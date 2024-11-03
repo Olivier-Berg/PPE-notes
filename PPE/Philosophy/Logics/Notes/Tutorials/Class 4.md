@@ -12,4 +12,6 @@ and only xyz variables
 p. 91: why can't "... has a computer" not just be a predicate, why does it have to be "... has ..."
 ... and why is it different for 'is'
 
+in TLM there is no mention of a domain, does that mean that the domain is just always "everything"
+
 ---
