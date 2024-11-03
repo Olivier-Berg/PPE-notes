@@ -14,4 +14,7 @@ p. 91: why can't "... has a computer" not just be a predicate, why does it have 
 
 in TLM there is no mention of a domain, does that mean that the domain is just always "everything"
 
+"In the definition of formulae (Def'n. 4.7), TLM does not include forallx's restriction (on p. 83) on the formulae to which quantifiers can be prepended to produce other formulae. However, a restriction like that is ultimately needed (implicitly) for TLM's definition of an _L_2-sentence (Def'n. 4.10). I will discuss what I take to be a more elegant version of this restriction in class."
+what do you mean?
+
 ---
