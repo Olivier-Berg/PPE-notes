@@ -6,6 +6,8 @@ Then what arity-index would this get (two strings of dots but only one predicate
 $P^?$: $..._1$ loves $..._1$ (themselves)
 
 Why can only P, Q and R be predicate letters? page 82
+why only a, b, c constants
+and only xyz variables
 
 
 ---
