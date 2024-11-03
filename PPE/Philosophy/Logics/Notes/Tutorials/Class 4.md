@@ -5,6 +5,7 @@ YOU SHOULD UNDERATAND THE DIFFERENCE BETWEEN $\exists x (Ax \land Bx)$ and $\exi
 Then what arity-index would this get (two strings of dots but only one predicate needed):
 $P^?$: $..._1$ loves $..._1$ (themselves)
 
+Why can only P, Q and R be predicate letters? page 82
 
 
 ---
