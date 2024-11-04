@@ -1,5 +1,5 @@
 [[Topic 4]]
-YOU SHOULD UNDERATAND THE DIFFERENCE BETWEEN $\exists x (Ax \land Bx)$ and $\exists x (Ax \rightarrow Bx)$, and $\forall x (Ax \rightarrow Bx)$ and $\forall x (Ax \land Bx)$.
+YOU SHOULD UNDERSTAND THE DIFFERENCE BETWEEN $\exists x (Ax \land Bx)$ and $\exists x (Ax \rightarrow Bx)$, and $\forall x (Ax \rightarrow Bx)$ and $\forall x (Ax \land Bx)$.
 
 "In TLM it says "the upper index is called the predicate letter's 'arity-index' [...] The number of strings of dots must always correspond the the arity-index of the predicate letter." (p. 76-77)
 Then what arity-index would this get (two strings of dots but only one predicate needed):
@@ -10,8 +10,8 @@ why only a, b, c constants
 and only xyz variables
 
 p. 91: why can't "... has a computer" not just be a predicate, why does it have to be "... has ..."
-... and why is it different for 'is' p. 78
-**Because for "is ..."  the "..." is usually a bijvoegelijk naamwoord, so then there is no way to fill it.**
+... and why is it different for 'is' p. 78, 
+**Because for "is ..."  the "..." is usually a bijvoegelijk naamwoord, so then there is no way to fill it. It makes sense for "is a scrooge".**
 
 in TLM there is no mention of a domain, does that mean that the domain is just always "everything"
 
