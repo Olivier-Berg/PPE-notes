@@ -12,6 +12,7 @@ and only xyz variables
 p. 91: why can't "... has a computer" not just be a predicate, why does it have to be "... has ..."
 ... and why is it different for 'is' p. 78, 
 **Because for "is ..."  the "..." is usually a bijvoegelijk naamwoord, so then there is no way to fill it. It makes sense for "is a scrooge".**
+"... has ..." usually is an existential claim: "for all x (x is a person and for at least one y (y is a so))"
 
 in TLM there is no mention of a domain, does that mean that the domain is just always "everything"
 
