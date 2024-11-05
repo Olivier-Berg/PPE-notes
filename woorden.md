@@ -5,3 +5,4 @@ streng
 springen
 boulderroutes
 dienstmeisje
+beloofd (beloven)
