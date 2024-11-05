@@ -1,3 +1,4 @@
 tekenen
 voedselvergiftiging
 vastpakken
+streng
