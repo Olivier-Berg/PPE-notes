@@ -2,3 +2,4 @@ tekenen
 voedselvergiftiging
 vastpakken
 streng
+springen
