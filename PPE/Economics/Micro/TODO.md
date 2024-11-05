@@ -14,3 +14,7 @@
 - [ ] Math chapter 7
 - [ ] Review tutorial notes Rohan
 
+
+## Week 3
+- [ ] Maths Workbook Review Chapter 6. And please cover Chapters 7 and 8.
+- [ ] 
