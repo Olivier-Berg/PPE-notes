@@ -15,7 +15,7 @@
 - [ ] Review tutorial notes Rohan
 
 
-## Week 3
+## Week 4
 - [ ] Maths Workbook Review Chapter 6. And please cover Chapters 7 and 8.
 - [ ] CORE 7
 - [ ] P 6, 7, 8
