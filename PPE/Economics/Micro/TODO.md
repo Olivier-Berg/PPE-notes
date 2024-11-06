@@ -21,5 +21,7 @@
 - [ ] P 6, 7, 8
 	- [ ] p. 217 de math workbook
 	- [ ] p. 218-221 elasticity of MRTS
+	- [ ] p. 251-255 lagrange
+	- [ ] 
 - [ ] Departmental Tute Sheet Problems 3*, 4*, and 6*
 - [ ] College Tute Sheet Question 2* but skip part a(i) (will likely discuss Questions 1 and 3-6 in class)
