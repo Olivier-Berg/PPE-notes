@@ -23,5 +23,7 @@
 	- [ ] p. 218-221 elasticity of MRTS
 	- [ ] p. 251-259 lagrange ...
 	- [ ] p. 277-278
+	- [ ] p. 285-286
+	- [ ] 
 - [ ] Departmental Tute Sheet Problems 3*, 4*, and 6*
 - [ ] College Tute Sheet Question 2* but skip part a(i) (will likely discuss Questions 1 and 3-6 in class)
