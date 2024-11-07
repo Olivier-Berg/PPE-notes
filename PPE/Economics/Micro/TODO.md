@@ -27,5 +27,6 @@
 	- [ ] p. 293-295
 	- [ ] p. 303-305
 	- [ ] 307
-- [ ] Departmental Tute Sheet Problems 3*, 4*, and 6*
-- [ ] College Tute Sheet Question 2* but skip part a(i) (will likely discuss Questions 1 and 3-6 in class)
+- [x] Departmental Tute Sheet Problems 3*, 4*, and 6*
+- [x] College Tute Sheet Question 2* but skip part a(i) (will likely discuss Questions 1 and 3-6 in class)
+- [ ] understand the PS = revenue - ...
