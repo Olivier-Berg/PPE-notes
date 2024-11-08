@@ -1,1 +1,1 @@
-With Mill's idea of competent judges, is it even hedonism anymore, or has it become more of a 
+With Mill's idea of competent judges, is it even hedonism anymore, or has it become more of a emotivist moral philosophy when everything is based of "observation and experience", is not everything just based of intuition then?
