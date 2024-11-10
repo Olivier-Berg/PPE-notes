@@ -8,7 +8,7 @@ core reading
 - [ ] Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Chs.2-3
 	- [x] ch 2
 	- [ ] ch 3
-- [ ] Robert Nozick (1974). _Anarchy, State, and Utopia_. London: Wiley-Blackwell: 42-45
+- [x] Robert Nozick (1974). _Anarchy, State, and Utopia_. London: Wiley-Blackwell: 42-45
 - [ ] Elizabeth S. Anderson (1991). “John Stuart Mill and Experiments in Living”. Ethics, 102 (1): 4–26
 
 additional reading:
