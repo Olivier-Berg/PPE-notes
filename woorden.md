@@ -2,3 +2,4 @@ ziel
 verdediging
 graf
 schermen
+vergelijken
