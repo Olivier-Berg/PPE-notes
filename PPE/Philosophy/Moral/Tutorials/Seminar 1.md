@@ -10,4 +10,3 @@
 
 - Outline the argument you are going to make
 - Answer the question
-- 
