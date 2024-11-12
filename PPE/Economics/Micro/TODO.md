@@ -19,7 +19,7 @@
 ## Week 4
 - [ ] Maths Workbook Review Chapter 6. And please cover Chapters 7 and 8.
 - [ ] CORE 7
-- [ ] P 6, 7, 8
+- [x] P 6, 7, 8
 	- [ ] p. 217 de math workbook
 	- [ ] p. 218-221 elasticity of MRTS
 	- [ ] p. 251-259 lagrange ...
