@@ -1,3 +1,4 @@
+#tutorial #microeconomics 
 Feedback: [[Week 1.pdf]]
 
 If both specialize, the total amount of possibilities increases.
