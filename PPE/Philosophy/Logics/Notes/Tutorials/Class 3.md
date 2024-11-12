@@ -1,4 +1,5 @@
-#tutorial #logics 
+#class #logics 
+
 [[exercises week 2.pdf]]
 **Ask about question 3.5i, it is separate of eachother**
 

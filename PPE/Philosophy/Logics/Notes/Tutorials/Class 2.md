@@ -1,4 +1,4 @@
-#tutorial #logics 
+#class #logics 
 [[Topic 2]]
 **Ask about Dorothy**
 

@@ -1,4 +1,4 @@
-#tutorial #logics
+#class #logics
 Statements are (parts of) sentences that can be determinately true or false.
 
 Exposition vs. argument.
