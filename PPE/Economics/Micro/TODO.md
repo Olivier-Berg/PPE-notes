@@ -33,4 +33,4 @@
 - [ ] understand the PS = revenue - ...
 
 ## Week 5
-- 
+- [ ] Maths Workbook Review 4.7-4.8, 5.5-5.7, 6.1-6.2, 6.4, 7.1-7.3 (and see Exercise 7.3(3) – solutions in the back), 7.4 [and see Exercise 7.5 – solutions in the back]. Also have a look at 9.1, 9.3, 9.5, and 10.
