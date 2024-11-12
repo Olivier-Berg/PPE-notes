@@ -1,2 +1,4 @@
 ziel
 verdediging
+graf
+schermen
