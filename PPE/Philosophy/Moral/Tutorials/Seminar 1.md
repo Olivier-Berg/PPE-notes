@@ -5,4 +5,4 @@
 - Don't use too much jargon
 
 - Sentences not too long
-- Don't say "I believe", "I feel", use "I ar"
+- Don't say "I believe, feel", use "I argue, submit, posit"
