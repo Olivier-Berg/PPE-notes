@@ -6,3 +6,4 @@ vergelijken
 marteling
 gemakkelijk
 achterwerk
+concurreren
