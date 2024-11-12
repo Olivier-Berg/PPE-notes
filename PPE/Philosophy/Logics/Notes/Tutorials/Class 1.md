@@ -1,4 +1,5 @@
 #class #logics
+[[PPE/Philosophy/Logics/Problem Sheets/TLM/Week 1.pdf|Week 1]]
 Statements are (parts of) sentences that can be determinately true or false.
 
 Exposition vs. argument.

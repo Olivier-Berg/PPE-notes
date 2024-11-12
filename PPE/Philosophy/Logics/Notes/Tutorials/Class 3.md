@@ -1,7 +1,6 @@
 #class #logics 
 
-[[exercises week 2.pdf]]
-**Ask about question 3.5i, it is separate of eachother**
+[[PPE/Philosophy/Logics/Problem Sheets/TLM/Week 3.pdf|Week 3]]
 
 **Ask about whether "all tortoises are toothless" cannot be translated as if it was "if anything is a tortoise then it is toothless".**
 
