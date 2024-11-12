@@ -3,3 +3,4 @@ verdediging
 graf
 schermen
 vergelijken
+marteling
