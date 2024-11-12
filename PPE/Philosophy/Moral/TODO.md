@@ -9,7 +9,8 @@ core reading
 	- [x] ch 2
 	- [ ] ch 3
 - [x] Robert Nozick (1974). _Anarchy, State, and Utopia_. London: Wiley-Blackwell: 42-45
-- [ ] Elizabeth S. Anderson (1991). “John Stuart Mill and Experiments in Living”. Ethics, 102 (1): 4–26, at page 19
+- [x] Elizabeth S. Anderson (1991). “John Stuart Mill and Experiments in Living”. Ethics, 102 (1): 4–26
+	- [ ] Page 22-26
 
 additional reading:
 - [ ] Roger Crisp (2006). “Hedonism Reconsidered”. Philosophy and Phenomenological Research, 73 (3): 619–645
