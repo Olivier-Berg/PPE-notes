@@ -33,4 +33,10 @@
 - [ ] understand the PS = revenue - ...
 
 ## Week 5
-- [ ] Maths Workbook Review 4.7-4.8, 5.5-5.7, 6.1-6.2, 6.4, 7.1-7.3 (and see Exercise 7.3(3) – solutions in the back), 7.4 [and see Exercise 7.5 – solutions in the back]. Also have a look at 9.1, 9.3, 9.5, and 10.
+- [ ] Maths Workbook Review 4.7-4.8, 5.5-5.7, 6.1-6.2, 6.4, 7.1-7.3 (and see Exercise 7.3(3) – solutions in the back), 7.4 (and see Exercise 7.5 – solutions in the back). Also have a look at 9.1, 9.3, 9.5, and 10.
+- [ ] CORE 2 (2.7 onwards) and 3
+- [ ] P 3, 4 
+- [ ] NB: you need to read about the Slutsky Equation. Varian does it holding income fixed but your
+
+lectures will do it holding utility fixed. Please learn it as the latter.
+- [ ] 
