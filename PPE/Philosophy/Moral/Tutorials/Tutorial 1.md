@@ -1,3 +1,4 @@
+#tutorial #moral-philosophy
 Feedback: [[Does Mill’s distinction between higher and lower pleasures provide a successful defence of Hedonism?.pdf]]
 
 
