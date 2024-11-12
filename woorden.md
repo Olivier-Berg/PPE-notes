@@ -1,9 +1,0 @@
-ziel
-verdediging
-graf
-schermen
-vergelijken
-marteling
-gemakkelijk
-achterwerk
-concurreren
