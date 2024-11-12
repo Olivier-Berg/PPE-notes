@@ -4,3 +4,4 @@ graf
 schermen
 vergelijken
 marteling
+gemakkelijk
