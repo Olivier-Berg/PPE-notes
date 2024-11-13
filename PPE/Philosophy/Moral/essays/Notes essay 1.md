@@ -1,3 +1,6 @@
+#moral-philosophy 
+[[Does Mill’s distinction between higher and lower pleasures provide a successful defence of Hedonism?.pdf]]
+
 Hi both, 
 
   
@@ -42,4 +45,3 @@ Ellie
 
 ---
 Thank you, that makes sense!
-
