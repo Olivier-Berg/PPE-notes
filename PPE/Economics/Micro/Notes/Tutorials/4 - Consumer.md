@@ -9,3 +9,4 @@ Why is the (1-a) required, why can't they add up to more than 1?
 ---
 quasilinear
 MRS only depends on the not linear one (y) 
+
