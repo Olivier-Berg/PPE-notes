@@ -117,3 +117,6 @@ D)
 4. $\neg \exists x Sxj$
 ![[Documentscans.pdf]] 
 **Two questions: for question 7 and 10**
+
+---
+![[Scherm­afbeelding 2024-11-15 om 18.40.49.png]]
