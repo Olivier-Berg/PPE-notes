@@ -13,7 +13,7 @@ and only xyz variables
 
 p. 91: why can't "... has a computer" not just be a predicate, why does it have to be "... has ..."
 ... and why is it different for 'is' p. 78, 
-**Because for "is ..."  the "..." is usually a bijvoegelijk naamwoord, so then there is no way to fill it. It makes sense for "is a scrooge".**
+**Because for "is ..."  the "..." is usually a adjective, so then there is no way to fill it. It makes sense for "is a scrooge".**
 "... has ..." usually is an existential claim: "for all x (if x is a person, then for at least one y (y is a soul and x has y))"
 
 
