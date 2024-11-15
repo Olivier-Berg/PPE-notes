@@ -13,33 +13,4 @@ MRS only depends on the not linear one (y)
 
 ---
 what with slutsky if endownment, then you get a table of 6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![[PHOTO-2024-11-14-17-40-36.jpg]]
