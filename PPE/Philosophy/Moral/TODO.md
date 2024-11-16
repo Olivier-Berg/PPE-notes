@@ -6,7 +6,7 @@ core reading
 - [ ] John Stuart Mill (1863 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs. 2 & 4
 	- [ ] ch 2
 	- [ ] ch 4
-- [ ] Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Chs.2-3
+- [x] Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Chs.2-3
 	- [x] ch 2
 	- [ ] ch 3
 - [x] Robert Nozick (1974). _Anarchy, State, and Utopia_. London: Wiley-Blackwell: 42-45
@@ -20,6 +20,8 @@ additional reading:
 - [ ] Guy Fletcher (2016). _The Philosophy of Well-Being: An Introduction._ London: Routledge: Chs.1-4
 
 ## Week 6
+- [ ] essay 
+
 **Core Readings**
 - [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs.1 & 4
 - [ ] Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.4
