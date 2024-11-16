@@ -21,18 +21,10 @@ additional reading:
 
 ## Week 6
 **Core Readings**
-
-John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford
-
-University Press: Chs.1 & 4
-
-Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.4
-
-G.E. Moore ([1903] 1966). _Principia Ethica_. Thirteenth Edition. Cambridge: Cambridge University
-
-Press: Ch.1, §§1-13; Ch.3, §§39-44, §§58-62
-
-Everett W. Hall (1949). “The “Proof” of Utility in Bentham and Mill”. _Ethics_, 60 (1): 1–1
+- [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs.1 & 4
+- [ ] Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.4
+- [ ] G.E. Moore ([1903] 1966). _Principia Ethica_. Thirteenth Edition. Cambridge: Cambridge University Press: Ch.1, §§1-13; Ch.3, §§39-44, §§58-62
+- [ ] Everett W. Hall (1949). “The “Proof” of Utility in Bentham and Mill”. _Ethics_, 60 (1): 1–1
 
 **Additional Reading:**
 
@@ -49,5 +41,4 @@ H.R. West (2006). “Mill’s ‘Proof’ of the Principle of Utility”. In: _T
 _Utilitarianism._ Ed. by H.R. West. London: Blackwell
 
 Sturgeon, N, Ethical Naturalism‟, in Copp, D. (ed.), Oxford Handbook of Ethical Theory
-
 (OUP, 2006)
