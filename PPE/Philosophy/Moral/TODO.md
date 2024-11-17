@@ -30,7 +30,8 @@ additional reading:
 - [ ] Everett W. Hall (1949). “The “Proof” of Utility in Bentham and Mill”. _Ethics_, 60 (1): 1–1
 
 **Additional Reading:**
-- [ ] Mary Warnock (1960). “On Moore’s Criticisms of Mill’s ‘Proof’”. In: _Mill: A Collection of Critical_ Essays._ Ed. by J.B. Schneewind. University of Notre Dame Press
+- [x] Mary Warnock (1960). “On Moore’s Criticisms of Mill’s ‘Proof’”. In: _Mill: A Collection of Critical_ Essays._ Ed. by J.B. Schneewind. University of Notre Dame Press
+	- [ ] understand page 
 - [ ] Geoffrey Sayre-McCord (2001). “Mill’s ‘Proof’ of the Principle of Utility: A More Than HalfHearted Defense”. Social Philosophy and Policy, 18 (2): 330–360
 - [ ] H.R. West (2006). “Mill’s ‘Proof’ of the Principle of Utility”. In: _The Blackwell Guide to Mill’s_ _Utilitarianism._ Ed. by H.R. West. London: Blackwell
 - [ ] Sturgeon, N, Ethical Naturalism‟, in Copp, D. (ed.), Oxford Handbook of Ethical Theory (OUP, 2006)
