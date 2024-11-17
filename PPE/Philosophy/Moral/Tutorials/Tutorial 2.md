@@ -19,4 +19,4 @@ Finally, Mill and Darwin would disagree on whether it would be innate or not. (p
 
 conclusion
 counterargument that perhaps that means that not the ultimate goal is happiness, but fitness (perhaps there is no ultimate goal) (perhaps this as last sentence of conclusion)
-
+Perhaps we can conclude that there is not really an ultimate goal. However, this does not practically change anything, because precisely the reason that we have evolved to feel pleasure and happiness,
