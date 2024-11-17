@@ -9,7 +9,7 @@ Moore and his objection, rebuttel (p. 200 Warnock)
 
 Explain why it makes sense from a darwinistic pov, happiness is a tool for fitness
 
-back this up, we get happiness from sex, from not e
+back this up, we get happiness from sex, from not being alone (no loneliness), because they increase our fitness/offspring.
 
 counterargument that perhaps that means that not the ultimate goal is happiness, but fitness (perhaps there is no ultimate goal) (perhaps this as last sentence of conclusion)
 
