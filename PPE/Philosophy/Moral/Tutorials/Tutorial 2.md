@@ -11,10 +11,12 @@ Explain why it makes sense from a darwinistic pov, happiness is a tool for fitne
 
 back this up, we get happiness from sex, from not being alone (no loneliness), because they increase our fitness/offspring.
 
-counterargument that perhaps that means that not the ultimate goal is happiness, but fitness (perhaps there is no ultimate goal) (perhaps this as last sentence of conclusion)
+
 
 Can't happiness also be a desire we have because of associationism. People who are more happy are more likely to survive, therefore we desire happiness. The ultimate goal would then be survival, fitness (Darwinism). (Crisp p. 85)
 
 Finally, Mill and Darwin would disagree on whether it would be innate or not. (p. 91)
 
 conclusion
+counterargument that perhaps that means that not the ultimate goal is happiness, but fitness (perhaps there is no ultimate goal) (perhaps this as last sentence of conclusion)
+
