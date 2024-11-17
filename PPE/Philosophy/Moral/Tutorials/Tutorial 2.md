@@ -10,9 +10,10 @@ Moore and his objection, rebuttel (p. 200 Warnock)
 
 Explain why it makes sense from a darwinistic pov, happiness is a tool for fitness
 
-counterargument that perhaps that means that not the ultimate goal is happiness, but fitness (perhaps there is no)
+counterargument that perhaps that means that not the ultimate goal is happiness, but fitness (perhaps there is no ultimate goal) (perhaps this as last sentence of conclusion)
 
 Can't happiness also be a desire we have because of associationism. People who are more happy are more likely to survive, therefore we desire happiness. The ultimate goal would then be survival, fitness (Darwinism). (Crisp p. 85)
 
-Mill and Darwin would disagree on whether it would be innate or not. (p. 91)
+Finally, Mill and Darwin would disagree on whether it would be innate or not. (p. 91)
 
+conclusion
