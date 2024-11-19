@@ -24,3 +24,8 @@ Finally, Mill and Darwin would disagree on whether it would be innate or not. (p
 conclusion
 counterargument that perhaps that means that not the ultimate goal is happiness, but fitness (perhaps there is no ultimate goal) (perhaps this as last sentence of conclusion)
 Perhaps we can conclude that there is not really an ultimate goal. However, this does not practically change anything, because precisely the fact that we have evolved to feel pleasure and happiness, means that humans enjoy it very much. And that, in of itself, should be the reason that we have to promote it. Because every other thing we desire comes from this pleasure.
+
+
+---
+
+"With this, it seems like Mill is trying to get at exactly the same as I was in the beginning of this essay. That people desire things because they increase their fitness, and humans have evolved this capability of feeling pleasure to incentivise us to do those things. And as a result, things that are good for us and our fitness go hand in hand with pleasure, they are inextricably linked. And so, we associate pleasure with those things."
