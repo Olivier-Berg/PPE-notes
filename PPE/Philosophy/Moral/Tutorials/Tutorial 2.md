@@ -27,5 +27,7 @@ Perhaps we can conclude that there is not really an ultimate goal. However, this
 
 
 ---
+[[How is Mill’s ‘proof’ of Utilitarianism supposed to work? Does it succeed?.pdf#page=4&selection=63,2,78,1|How is Mill’s ‘proof’ of Utilitarianism supposed to work? Does it succeed?, page 4]]
+*"With this, it seems like Mill is trying to get at exactly the same as I was in the beginning of this essay. That people desire things because they increase their fitness, and humans have evolved this capability of feeling pleasure to incentivise us to do those things. And as a result, things that are good for us and our fitness go hand in hand with pleasure, they are inextricably linked. And so, we associate pleasure with those things."*
 
-"With this, it seems like Mill is trying to get at exactly the same as I was in the beginning of this essay. That people desire things because they increase their fitness, and humans have evolved this capability of feeling pleasure to incentivise us to do those things. And as a result, things that are good for us and our fitness go hand in hand with pleasure, they are inextricably linked. And so, we associate pleasure with those things."
+I guess one obvious counterargument could be that we sometimes desire some things that are not good for us (eg macdonalds)
