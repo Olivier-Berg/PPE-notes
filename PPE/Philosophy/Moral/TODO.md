@@ -20,7 +20,7 @@ additional reading:
 - [ ] Guy Fletcher (2016). _The Philosophy of Well-Being: An Introduction._ London: Routledge: Chs.1-4
 
 ## Week 6
-- [ ] essay 
+- [x] essay [[How is Mill’s ‘proof’ of Utilitarianism supposed to work? Does it succeed?.pdf]]
 
 **Core Readings**
 - [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs.1 & 4
