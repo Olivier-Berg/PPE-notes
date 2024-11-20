@@ -46,11 +46,10 @@
 
 
 ## Week 6
-- [ ] Maths Workbook Nothing new this week.
+- [x] Maths Workbook Nothing new this week.
 - [ ] CORE 4, 5, 6
-
-• [V 28, 29] or [P 13] or [SF 14]
-
-Departmental Tute Sheet Questions 5* and 6*
-
-College Tute Sheet Question 1*
+- [ ] [V 28, 29] or [P 13] or [SF 14]
+	- [x] P 13
+	- [ ] Perhaps also read V 28, 29 as P 13 is only about game theory
+- [x] Departmental Tute Sheet Questions 5* and 6*
+- [x] College Tute Sheet Question 1*
