@@ -43,3 +43,14 @@
 	- [ ] slutsky equation
 - [x] Departmental Tute Sheet Problems 6*, 7*, 8* (will discuss Problems 5 and 9, and Question 3 in class)
 - [x] College Tute Sheet Nothing this week (but will likely discuss Questions 1-5 in class)
+
+
+## Week 6
+- [ ] Maths Workbook Nothing new this week.
+- [ ] CORE 4, 5, 6
+
+• [V 28, 29] or [P 13] or [SF 14]
+
+Departmental Tute Sheet Questions 5* and 6*
+
+College Tute Sheet Question 1*
