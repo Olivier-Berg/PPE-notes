@@ -24,3 +24,7 @@ This was also the example that Ronya gave to show that it was possible. So what 
 
 **Volker even gave an example in the lecture in 6.2 where he allowed this**
 
+
+---
+[[Week 6.pdf]]
+For 5.1, whenever you need multiple variables you say:
