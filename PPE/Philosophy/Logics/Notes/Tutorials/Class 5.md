@@ -26,6 +26,6 @@ This was also the example that Ronya gave to show that it was possible. So what 
 
 
 ---
-[[Week 6.pdf]]
+[[PPE/Philosophy/Logics/Problem Sheets/TLM/Week 5.pdf|Week 5]]
 For 5.1, whenever you need multiple variables you say: for 9 for instance:
 let alpha be a variable assignment for x = ..., then there is no variable assignment beta, differing from alpha in y at most, so that it is part of the set (for saying it is part of the set use variable assignment beta). and for 10, if x = 2 you can switch back to the original variable assignment again:
