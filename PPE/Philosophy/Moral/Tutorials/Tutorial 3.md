@@ -7,4 +7,4 @@ Is this true? He says exactly that we have gotten our customary morality already
 To refute a counterargument here, why do some people have the wrong morality, because in the past it gave the most happiness, right now though it no longer and therefore we should try to change our associations through education. (See Crisp p. 112)
 
 I think Mill is a rule-utilitarian (Crisp p.112)
-
+""Perhaps the most common confusion, and one still found in much contemporary writing in ethics, is between a version of multi-level act utilitarianism, such as Mill’s, which advocates adherence to ordinary moral rules, and rule utilitarianism.
