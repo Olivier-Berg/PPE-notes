@@ -1,7 +1,7 @@
 #tutorial #moral-philosophy 
 Feedback [[How is Mill’s ‘proof’ of Utilitarianism supposed to work? Does it succeed?.pdf]]
 
-
+Retrospectively: **Mill seems to fully agree with my argument. See Crisp p. 108**
 
 The visible analogy is not a good analogy. Rather it should be that Mill cannot prove that it is worthwhile to look at for instance paintings, is that people look at paintings. Just like with desirable not only means that people *can* desire it, but means that it is worthwhile to desire it.
 This, however, might have made things more complicated because one could argue that according to Mill, the reason that people think it is worthwhile to look at paintings, is because they get pleasure from it, they desire it. So then he would be saying the same thing twice.
@@ -33,5 +33,3 @@ Perhaps we can conclude that there is not really an ultimate goal. However, this
 
 I guess one obvious counterargument could be that we sometimes desire some things that are not good for us (eg macdonalds), precisely because the modern day world is not build for cavemen humans (which we ultimately are, we want to consume as many calories as possible). And so, not necessarily every thing we desire should be desirable... as going to macdonalds every day would negatively impact our health and we can agree that that is probably not desirable.
 Perhaps, a refutation to this would be that humans are just very bad a choosing from short term versus long term. If one had the choice between good health or bad health with macdonalds right in front of them, everyone would choose the former (as it now has become a short term decision).
-
----
