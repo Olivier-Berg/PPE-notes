@@ -33,3 +33,5 @@ Perhaps we can conclude that there is not really an ultimate goal. However, this
 
 I guess one obvious counterargument could be that we sometimes desire some things that are not good for us (eg macdonalds), precisely because the modern day world is not build for cavemen humans (which we ultimately are, we want to consume as many calories as possible). And so, not necessarily every thing we desire should be desirable... as going to macdonalds every day would negatively impact our health and we can agree that that is probably not desirable.
 Perhaps, a refutation to this would be that humans are just very bad a choosing from short term versus long term. If one had the choice between good health or bad health with macdonalds right in front of them, everyone would choose the former (as it now has become a short term decision).
+
+---
