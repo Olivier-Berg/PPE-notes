@@ -9,3 +9,5 @@ To refute a counterargument here, why do some people have the wrong morality, be
 I think Mill is a rule-utilitarian (Crisp p.112)
 *"Perhaps the most common confusion, and one still found in much contemporary writing in ethics, is between a version of multi-level act utilitarianism, such as Mill’s, which advocates adherence to ordinary moral rules, and rule utilitarianism."* p.113
 Explain!!!!
+
+Defend mill from the unconscious rape scenario: Crisp p.117
