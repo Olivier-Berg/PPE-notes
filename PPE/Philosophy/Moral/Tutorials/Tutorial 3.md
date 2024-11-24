@@ -12,3 +12,7 @@ Explain!!!!
 
 Defend mill from the unconscious rape scenario: Crisp p.117
 And with the sheriff objection p.118
+
+Essay plan:
+
+Start with unconscious rape scenario. More interesting than the sheriff objection. A single-level act-utilitarian would allow it, however, as mill places emphasis 
