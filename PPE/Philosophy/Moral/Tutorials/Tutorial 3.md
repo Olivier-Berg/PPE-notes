@@ -21,6 +21,6 @@ Use the above to conclude that Mill is not a rule utilitarian, nor a single-leve
 
 Explain that according to his theory, incest would be allowed. explain why it does not have the same problems as the unconscious rape scenario.
 
-Refute about misformed children counterargument. can be refuted two ways, 
+Refute about misformed children counterargument. can be refuted two ways, people who have huntington disease/down syndrome should no longer be allowed to have kids. Why not just use a condom/sterilization (as is allowed in many states in the US). Explain that the problem with this objection is that it is just a practical objection, there is nothing intrinsi
 
 Perhaps we should normalise incest
