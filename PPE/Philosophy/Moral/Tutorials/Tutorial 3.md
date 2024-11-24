@@ -23,4 +23,6 @@ Explain that according to his theory, incest would be allowed. explain why it do
 
 Refute about misformed children counterargument. can be refuted two ways, people who have huntington disease/down syndrome should no longer be allowed to have kids. Why not just use a condom/sterilization (as is allowed in many states in the US). Explain that the problem with this objection is that it is just a practical objection, there is nothing intrinsically wrong with incest, and can therefore be overcome.
 
-Perhaps we should normalise incest, as mill says (crisp p.108), peoples customary morality is still quite wrong. There was a reason why incest was not allowed before (evolutionarily bad because misformed, unhealthy, children), so perhaps we
+Perhaps we should normalise incest, as mill says (crisp p.108), peoples customary morality is still quite wrong. There was a reason why incest was not allowed before (evolutionarily bad because misformed, unhealthy, children), but we no longer have that problem... Therefore we should normalise incest (as most of the current unhappiness comes from the fact that it is not normalised, not from incest itself).
+
+conclusion (perhaps have a final sentence about necrophilia).
