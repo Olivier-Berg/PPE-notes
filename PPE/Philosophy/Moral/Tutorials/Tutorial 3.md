@@ -13,7 +13,7 @@ Explain!!!!
 Defend mill from the unconscious rape scenario: Crisp p.117
 And with the sheriff objection p.118
 
-Essay plan:
+**Essay plan:**
 
 Start with unconscious rape scenario. More interesting than the sheriff objection. A single-level act-utilitarian would allow it, however, as mill places emphasis on the long term, if people get used to raping women, than women would no longer feel safe etc. etc. ...
 
@@ -21,3 +21,6 @@ Use the above to conclude that Mill is not a rule utilitarian, nor a single-leve
 
 Explain that according to his theory, incest would be allowed. explain why it does not have the same problems as the unconscious rape scenario.
 
+Refute about misformed children counterargument. can be refuted two ways, 
+
+Perhaps we should normalise incest
