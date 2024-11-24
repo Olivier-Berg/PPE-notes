@@ -11,3 +11,4 @@ I think Mill is a rule-utilitarian (Crisp p.112)
 Explain!!!!
 
 Defend mill from the unconscious rape scenario: Crisp p.117
+And with the sheriff objection p.118
