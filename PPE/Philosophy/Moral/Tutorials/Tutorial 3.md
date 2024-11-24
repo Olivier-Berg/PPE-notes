@@ -19,4 +19,5 @@ Start with unconscious rape scenario. More interesting than the sheriff objectio
 
 Use the above to conclude that Mill is not a rule utilitarian, nor a single-level act utilitarian.
 
-Explain that 
+Explain that according to his theory, incest would be allowed. explain why it does not have the same problems as the unconscious rape scenario.
+
