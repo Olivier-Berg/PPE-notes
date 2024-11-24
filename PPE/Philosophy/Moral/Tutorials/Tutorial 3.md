@@ -15,4 +15,4 @@ And with the sheriff objection p.118
 
 Essay plan:
 
-Start with unconscious rape scenario. More interesting than the sheriff objection. A single-level act-utilitarian would allow it, however, as mill places emphasis 
+Start with unconscious rape scenario. More interesting than the sheriff objection. A single-level act-utilitarian would allow it, however, as mill places emphasis on the long term, if people get used to raping women, than women would no longer feel safe etc. etc. ..
