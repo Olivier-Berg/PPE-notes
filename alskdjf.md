@@ -1,2 +1,3 @@
 $Qc \land \exists x Rcc$
-$\forall x$
+$\forall x (Qx \land \exists x Rxx)$
+
