@@ -15,14 +15,14 @@ And with the sheriff objection p.118
 
 **Essay plan:**
 
-~~Start with unconscious rape scenario. More interesting than the sheriff objection. A single-level act-utilitarian would allow it, however, as mill places emphasis on the long term, if people get used to raping women, than women would no longer feel safe etc. etc. ...
+Start with unconscious rape scenario. More interesting than the sheriff objection. A single-level act-utilitarian would allow it, however, as mill places emphasis on the long term, if people get used to raping women, than women would no longer feel safe etc. etc. ..
 
-~~Use the above to conclude that Mill is not a rule utilitarian, nor a single-level act utilitarian.~~
+Use the above to conclude that Mill is not a rule utilitarian, nor a single-level act utilitarian.
 
-~~Explain that according to his theory, incest would be allowed. explain why it does not have the same problems as the unconscious rape scenario.~~
+Explain that according to his theory, incest would be allowed. explain why it does not have the same problems as the unconscious rape scenario.
 
-~~Refute about misformed children counterargument. can be refuted two ways, people who have huntington disease/down syndrome should no longer be allowed to have kids. Why not just use a condom/sterilization (as is allowed in many states in the US). Explain that the problem with this objection is that it is just a practical, resolvable objection, there is nothing intrinsically wrong with incest, and can therefore be overcome.~~
+Refute about misformed children counterargument. can be refuted two ways, people who have huntington disease/down syndrome should no longer be allowed to have kids. Why not just use a condom/sterilization (as is allowed in many states in the US). Explain that the problem with this objection is that it is just a practical, resolvable objection, there is nothing intrinsically wrong with incest, and can therefore be overcome.
 
-~~Perhaps we should normalise incest, as mill says (crisp p.108), peoples customary morality is still quite wrong. There was a reason why incest was not allowed before (evolutionarily bad because misformed, unhealthy, children), but we no longer have that problem... Therefore we should normalise incest (as most of the current unhappiness comes from the fact that it is not normalised, not from incest itself).~~
+Perhaps we should normalise incest, as mill says (crisp p.108), peoples customary morality is still quite wrong. There was a reason why incest was not allowed before (evolutionarily bad because misformed, unhealthy, children), but we no longer have that problem... Therefore we should normalise incest (as most of the current unhappiness comes from the fact that it is not normalised, not from incest itself).
 
-~~conclusion (perhaps have a final sentence about necrophilia).~~
+conclusion (perhaps have a final sentence about necrophilia).
