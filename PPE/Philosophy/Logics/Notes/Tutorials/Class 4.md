@@ -81,3 +81,39 @@ I hope that helps explain what I see the issue to be.
   
 
 Best wishes,
+
+---
+
+Dear Sam,
+
+  
+
+Thank you very much for the explanation! However, I think that Volker Halbach has a slightly different interpretation. In his lecture last week, he actually used the following example to showcase the ∀-elimination rule (also see the attached screenshot from his lecture slides):
+
+To prove: ∀z (Pz ∨ ∃z Qzz) ⊢ Pc ∨ ∃z Qzz
+
+  
+
+∀z (Pz ∨ ∃z Qzz)
+
+-----------------------
+
+Pc ∨ ∃z Qzz
+
+  
+
+"I apply the rule for eliminating ∀ by deleting
+
+∀z and by replacing all free occurrences of z
+
+in the formula by the constant c.”
+
+  
+
+Here, Volker Halbach only talks about replacing the free occurrences, so perhaps he regards variables captured by ∃z as different from the variables captured by ∀z. Also, the fact that he uses ∀z (Pz ∨ ∃z Qzz) as an example should mean that he regards it as a sentence of L2 (he gives it a truth value). Or am I not seeing something here? See you tomorrow!
+
+  
+
+Kind regards,
+
+Olivier
