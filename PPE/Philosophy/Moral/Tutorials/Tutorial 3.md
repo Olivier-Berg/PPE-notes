@@ -1,5 +1,11 @@
 #tutorial #moral-philosophy 
-I wrote 2 essays instea
+I wrote 2 essays instead of 1:
+
+Feedback: [[What kind of Utilitarian should we ascribe to Mill (and why)? Is this version plausible 1?.pdf]]
+I should make my argument more clear.
+
+Feedback: [[What kind of Utilitarian should we ascribe to Mill (and why)? Is this version plausible? 2.pdf]]
+Be more precise.
 
 ---
 
