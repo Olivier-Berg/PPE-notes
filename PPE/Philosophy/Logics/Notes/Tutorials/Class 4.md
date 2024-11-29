@@ -122,3 +122,90 @@ Olivier
 
 ---
 
+Dear Olivier,
+
+  
+
+Yes, the direction involving∀-elimination is okay; the problem comes in the other direction, with ∀-introduction, when one tries to show the logical equivalence of the sentences discussed in our previous email exchange.
+
+  
+
+All best,
+
+---
+Dear Sam,
+
+  
+
+Of course, but the same would then also be true for ∀-introduction, I also asked this this morning to Volker Halbach to make sure that my interpretation of him was correct and he pointed out that he had specifically accounted for this scenario in another definition.
+
+The problem of course was that on page 137 he says:
+
+"in application of the rule, one has to make sure that the variable of the newly introduced quantifier is not caught by a quantifier that is already in the formula.”
+
+  
+
+The rule is of course:
+
+    ⋮
+
+ φ[t/v]
+
+----------∀Intro
+
+ ∀vφ
+
+  
+
+However, when he introduces the notation for substitution, he explicitly states:
+
+_“DEFINITION 6.12. Assume v is a variable, t a constant, and ϕ an L2-formula with at most v occurring freely. Then  φ[t/v] is the sentence obtained by replacing all free occurrences of v in ϕ by t.”_ (p. 131)
+
+So, φ[t/v] is the sentence obtained by only replacing all _free_ occurrences of v in ϕ by t. As there are no free occurrences of x in ∃xGxx, all the free occurrences are already replaced by a constant. Therefore, one can add ∀x to ∃xGxx to get ∀x∃xGxx according to the ∀Intro rule. Therefore there is a valid proof of ∃xGxx ⊦ ∀x∃xGxx, which makes the proof system complete.
+
+  
+
+Volker Halbach also explains this further on the bottom of page 132, with the ∀-Elim rule (but it shows the same thing):
+
+“The following example explains why only free occurrences of the variable are replaced:
+
+∀y(Py∧∃yQy)
+
+-----------------∀Elim
+
+ Pb5 ∧∃yQy
+
+If one were allowed to replace also the last occurrence of y, which is bound, one would to get to Pb ∧∃yQb, which is logically equivalent to Pb ∧Qb. This step is clearly not sound: from ∀y(Py∧∃yQy) it does not follow that b is Q. Intuitively speaking, only occurrences of y in ∀y (Py ∧ ∃y Qy) that are ‘caught’ by the universal quantifier ∀y can be replaced by the constant; the last occurrence of y belongs to the existential quantifier and must be left alone."
+
+So, I think what he means with the restriction on page 137 for the introduction rule is that one cannot infer for instance:
+
+Qc ∧ ∃xRcx
+
+\----------------
+
+∀x(Qx ∧ ∃xRxx)
+
+Which would of course not be a valid proof (he explains this on page 134-135). So what he means with that a variable is not already caught by another quantifier is here that the variable x (when one replaces c with x) is already caught by the ∃x quantifier, so it would get the wrong scope. Here is ∃xRxx the scope but the intended scope was the entire sentence (see page 134-135).
+
+I hope that makes sense!
+
+Kind regards,
+
+Olivier
+
+---
+
+
+Dear Olivier,
+
+  
+
+Thanks for following up on this. I see how the situation turns on what is intended by the informal "caught" here, and you've convinced me that there's a reading of this that ameliorates the problem I wrote about.
+
+  
+
+Still, if one thinks that, given a dictionary, it should be possible to translate between English and _L2_ systematically, then it is neither clear how sentences like ∀x∃xGxx would ever arise as translations from English, nor obvious how to translate such sentences back into English. It's true that these sentences of _L2_ are logically equivalent to sentences that are natural translations of English sentences (and vice versa), but translation often tries to capture syntactic similarity in addition to semantic similarity. Whether this concern about translation has weight, of course, depends on one's conception of the relationship between formal and natural languages.
+
+  
+
+Best,
