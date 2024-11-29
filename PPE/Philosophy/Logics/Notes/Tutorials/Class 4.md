@@ -96,7 +96,7 @@ To prove: ∀z (Pz ∨ ∃z Qzz) ⊢ Pc ∨ ∃z Qzz
 
 ∀z (Pz ∨ ∃z Qzz)
 
------------------------
+\-----------------------
 
 Pc ∨ ∃z Qzz
 
@@ -111,9 +111,14 @@ in the formula by the constant c.”
   
 
 Here, Volker Halbach only talks about replacing the free occurrences, so perhaps he regards variables captured by ∃z as different from the variables captured by ∀z. Also, the fact that he uses ∀z (Pz ∨ ∃z Qzz) as an example should mean that he regards it as a sentence of L2 (he gives it a truth value). Or am I not seeing something here? See you tomorrow!
-
   
 
 Kind regards,
 
 Olivier
+
+
+![[Scherm­afbeelding 2024-11-25 om 00.15.22.png]]
+
+---
+
