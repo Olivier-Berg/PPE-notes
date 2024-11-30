@@ -53,3 +53,5 @@
 	- [ ] Perhaps also read V 28, 29 as P 13 is only about game theory
 - [x] Departmental Tute Sheet Questions 5* and 6*
 - [x] College Tute Sheet Question 1*
+
+## Week 7
