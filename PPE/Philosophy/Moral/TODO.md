@@ -37,6 +37,8 @@ additional reading:
 - [ ] Sturgeon, N, Ethical Naturalism‟, in Copp, D. (ed.), Oxford Handbook of Ethical Theory (OUP, 2006)
 
 ## Week 7
+- [x] Two essays: [[What kind of Utilitarian should we ascribe to Mill (and why)? Is this version plausible 1?.pdf]] and [[What kind of Utilitarian should we ascribe to Mill (and why)? Is this version plausible? 2.pdf]]
+
 **Core Reading**
 - [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs. 2,5
 - [ ] *J.O. Urmson (1953). “The Interpretation of the Moral Philosophy of J.S. Mill”. The Philosophical
