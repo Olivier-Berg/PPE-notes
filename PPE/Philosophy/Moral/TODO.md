@@ -55,3 +55,23 @@ additional reading:
 
 
 ## Week 8
+**Core Reading**
+- [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs.2,3,5
+- [ ] *Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.6
+- [ ] *Bernard Williams (1973). “A Critique of Utilitarianism”. In: _Utilitarianism: For and Against._ Cambridge; Cambridge University Press: §§3-5
+- [ ] Crisp, R. “Mill on virtue as a part of happiness‟, British Journal for the History of Philosophy 4 (1996), pp. 367-380
+
+**Additional Reading**
+- [ ] Peter Railton (1984). “Alienation, Consequentialism, and the Demands of Morality”. Philosophy and Public Affairs, 13 (2): 134–171
+
+Elizabeth Ashford (2000). “Utilitarianism, Integrity, and Partiality”. Journal of Philosophy, 97 (8):
+
+421–439
+
+Foot, P. “Virtue and Vices‟, in her Virtues and Vices (Blackwell, 1978)
+
+Susan Wolf (1982). “Moral Saints”. Journal of Philosophy, 79 (8): 419–439
+
+Peter Singer (1972). “Famine, Affluence, and Morality”. Philosophy and Public Affairs, 1 (3): 229–
+
+243
