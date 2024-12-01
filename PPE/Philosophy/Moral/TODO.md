@@ -50,7 +50,7 @@ additional reading:
 **Additional Reading**
 - [ ] Julia Driver (2012). _Consequentialism_. London: Routledge: Chs.4 & 7
 - [ ] Daniel Jacobson (2003). “J.S. Mill and the Diversity of Utilitarianism”. Philosophers’ Imprint, 3: 1–18
-- [ ] Robert Merrihew Adams (1976). “Motive Utilitarianism”. Journal of Philosophy, 73 (14): 467–481Roger Crisp (1992). “Utilitarianism and the Life of Virtue”. Philosophical Quarterly, 42 (167): 139–160 -
+- [ ] Robert Merrihew Adams (1976). “Motive Utilitarianism”. Journal of Philosophy, 73 (14): 467–481Roger Crisp (1992). “Utilitarianism and the Life of Virtue”. Philosophical Quarterly, 42 (167): 139–160
 - [ ] Mark Timmons (2012). Moral Theory: An Introduction. Second Edition. London: Rowman and Littlefield: Chs.5-6
 
 
@@ -63,15 +63,7 @@ additional reading:
 
 **Additional Reading**
 - [ ] Peter Railton (1984). “Alienation, Consequentialism, and the Demands of Morality”. Philosophy and Public Affairs, 13 (2): 134–171
-
-Elizabeth Ashford (2000). “Utilitarianism, Integrity, and Partiality”. Journal of Philosophy, 97 (8):
-
-421–439
-
-Foot, P. “Virtue and Vices‟, in her Virtues and Vices (Blackwell, 1978)
-
-Susan Wolf (1982). “Moral Saints”. Journal of Philosophy, 79 (8): 419–439
-
-Peter Singer (1972). “Famine, Affluence, and Morality”. Philosophy and Public Affairs, 1 (3): 229–
-
-243
+- [ ] Elizabeth Ashford (2000). “Utilitarianism, Integrity, and Partiality”. Journal of Philosophy, 97 (8): 421–439 
+- [ ] Foot, P. “Virtue and Vices‟, in her Virtues and Vices (Blackwell, 1978)
+- [ ] Susan Wolf (1982). “Moral Saints”. Journal of Philosophy, 79 (8): 419–439
+- [ ] Peter Singer (1972). “Famine, Affluence, and Morality”. Philosophy and Public Affairs, 1 (3): 229–243
