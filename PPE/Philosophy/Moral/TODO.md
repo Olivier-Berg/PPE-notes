@@ -41,8 +41,7 @@ additional reading:
 
 **Core Reading**
 - [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs. 2,5
-- [ ] *J.O. Urmson (1953). “The Interpretation of the Moral Philosophy of J.S. Mill”. The Philosophical
-- [ ] Quarterley, 3: 33–39 [A classic paper, which famously interprets Mill as a Rule-Utilitarian, 7 pages long]
+- [ ] *J.O. Urmson (1953). “The Interpretation of the Moral Philosophy of J.S. Mill”. The Philosophical Quarterley, 3: 33–39 [A classic paper, which famously interprets Mill as a Rule-Utilitarian, 7 pages long]
 - [x] *Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.5 [Quite a long chapter this week, I’d recommend skim reading, choosing a focus for your essay, then going into detail on this]
 	- [x] --> p.119
 	- [ ] p. 119 onwards
