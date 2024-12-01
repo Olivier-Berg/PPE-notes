@@ -41,15 +41,12 @@ additional reading:
 - [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs. 2,5
 - [ ] *J.O. Urmson (1953). “The Interpretation of the Moral Philosophy of J.S. Mill”. The Philosophical
 - [ ] Quarterley, 3: 33–39 [A classic paper, which famously interprets Mill as a Rule-Utilitarian, 7 pages long]
-- [ ] *Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.5 [Quite a long chapter this week, I’d recommend skim reading, choosing a focus for your essay, then going into detail on this]
+- [x] *Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.5 [Quite a long chapter this week, I’d recommend skim reading, choosing a focus for your essay, then going into detail on this]
+	- [ ] p. 119 onwards
 - [ ] Brad Hooker (2013). “Rule-Consequentialism”. In: _The Blackwell Guide to Ethical Theory_. Ed. by Hugh LaFollette and Ingmar Persson. Second Edition. London: Blackwell [Provides useful clarification]
 
 **Additional Reading**
 - [ ] Julia Driver (2012). _Consequentialism_. London: Routledge: Chs.4 & 7
 - [ ] Daniel Jacobson (2003). “J.S. Mill and the Diversity of Utilitarianism”. Philosophers’ Imprint, 3: 1–18
-
-Robert Merrihew Adams (1976). “Motive Utilitarianism”. Journal of Philosophy, 73 (14): 467–481Roger Crisp (1992). “Utilitarianism and the Life of Virtue”. Philosophical Quarterly, 42 (167): 139–160 -
-
-Mark Timmons (2012). Moral Theory: An Introduction. Second Edition. London: Rowman and Littlefield:
-
-Chs.5-6
+- [ ] Robert Merrihew Adams (1976). “Motive Utilitarianism”. Journal of Philosophy, 73 (14): 467–481Roger Crisp (1992). “Utilitarianism and the Life of Virtue”. Philosophical Quarterly, 42 (167): 139–160 -
+- [ ] Mark Timmons (2012). Moral Theory: An Introduction. Second Edition. London: Rowman and Littlefield: Chs.5-6
