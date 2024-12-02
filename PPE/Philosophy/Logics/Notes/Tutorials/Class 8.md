@@ -1,0 +1,1 @@
+$\exists x Px = Pa \lor Pb \lor Pc \lor Pa_1 \lor P$
