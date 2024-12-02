@@ -16,6 +16,3 @@ Kind regards,
 Olivier
 
 ---
-
-
-
