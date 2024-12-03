@@ -12,4 +12,7 @@ Natalism makes all of this even worse, pascal's mugging kan dit niet oplossen
 
 explain that utilitarianism can be too demanding therefore integrity objection
 
-One can defend this, however, by saying that utilitarians should just bite the bullet and accept that we will have to give up our own happiness (because of circumstances shaped by other crisp p. 147), in order to improve the world (perhaps not even sacrifice happiness because people can get a lot of pleasure from it), so that, when the world is much more utilitarian, we have the freedom to care for friends because that is where the most pleasure will then come from (Crisp somewhere). An example of this wou
+One can defend this, however, by saying that utilitarians should just bite the bullet and accept that we will have to give up our own happiness (because of circumstances shaped by other crisp p. 147), in order to improve the world (perhaps not even sacrifice happiness because people can get a lot of pleasure from it), so that, when the world is much more utilitarian, we have the freedom to care for friends because that is where the most pleasure will then come from (Crisp somewhere). An example of this would be the EA movement. Perhaps explain singers drowning example (or perhaps in the thing above)
+
+However, a lot of ea thinkers (nick bostrtom), also emphasize future generations, longterm
+
