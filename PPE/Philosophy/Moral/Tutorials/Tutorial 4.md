@@ -5,3 +5,11 @@ The same is true for effective altruism, people disapprove of how unequal the wo
 
 Natalism makes all of this even worse, pascal's mugging kan dit niet oplossen
 
+
+---
+
+**Plan for essay**
+
+explain that utilitarianism can be too demanding therefore integrity objection
+
+One can defend 
