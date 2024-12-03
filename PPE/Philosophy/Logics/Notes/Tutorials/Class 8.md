@@ -16,3 +16,28 @@ Kind regards,
 Olivier
 
 ---
+
+Dear Olivier,
+
+
+That's a perceptive suggestion, although there are a few issues:
+
+- You would have to modify the syntax of _L2_ to allow for infinite sentences, and would have to deal with the technical issues that arise from this. (For example, what is the new recursive definition of sentences?) Nevertheless, logicians have considered such [infinitary logics](https://plato.stanford.edu/entries/logic-infinitary/ "https://plato.stanford.edu/entries/logic-infinitary/").
+    
+- "where the constants would take up every possible value in the domain": this is a constraint on an _L2_-structure, and so this interpretation would have to modify the semantics of _L2_ as well. This would also have the consequence of restricting the semantics to countable domains—those no larger than the counting numbers—since even an infinite string of atomic sentences wouldn't be able to render a sentence like "all real numbers are self-identical". (There are too many real numbers for them to be put one-to-one in correspondence with the counting numbers.)
+    
+- If you didn't modify the semantics, then the result would not have the same truth conditions as the quantifiers, for there's no guarantee that every object in the domain of some _L2_-structure is the semantic value for a constant. Still, logicians have considered these so-called[substitutional quantifiers](https://plato.stanford.edu/entries/quantification/#SubQua "https://plato.stanford.edu/entries/quantification/#SubQua").
+    
+- To reduce the quantifier proof rules to the conjunction and disjunction proof rules, you'd have to allow for infinitary proofs, of course.
+
+---
+
+Dear Sam,
+
+Thank you very much! However, could you not say that the syntax of L2 is already modified by allowing for the quantifiers. And that the quantifiers are conceptually exactly the infinite ‘or’s and ‘and’s? Because, when we are defining the quantifiers, is it not exactly this what we are doing, at least on a conceptual level? So then it would not have to have any implications for L2 itself.
+
+Kind regards,
+
+Olivier
+
+---
