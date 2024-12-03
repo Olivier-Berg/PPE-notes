@@ -41,3 +41,14 @@ Kind regards,
 Olivier
 
 ---
+Dear Olivier,
+
+> However, could you not say that the syntax of L2 is already modified by allowing for the quantifiers.
+
+The issue is not so much modification or no modification, but how big of a modification. I would say that most logicians would agree that allowing for infinite sentences in a formal language is a much bigger change than allowing for standard quantifiers.
+
+> And that the quantifiers are conceptually exactly the infinite ‘or’s and ‘and’s? Because, when we are defining the quantifiers, is it not exactly this what we are doing, at least on a conceptual level? So then it would not have to have any implications for L2 itself.
+
+I don't think so, for reasons I described in the last three bullet points. (To be clear, I myself have some sympathies with the substitutional interpretation, but I have to admit that it's not philosophically easy to justify the requirement that all objects are countable and have names. That said, I think that's justifiable in special cases, such as first-order theories of arithmetic, where the domain is the counting numbers.)
+
+Best,
