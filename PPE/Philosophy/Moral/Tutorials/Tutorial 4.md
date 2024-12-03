@@ -3,6 +3,5 @@ Crisp p. 147:
 The same is true for effective altruism, people disapprove of how unequal the world is, and we are being required to act in a certain way because how the world is shaped by other people, projects that we disapprove of.
 
 
-Natalism makes all of this even worse
-
+Natalism makes all of this even worse, pascal's mugging kan dit niet oplossen
 
