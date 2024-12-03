@@ -67,3 +67,5 @@ additional reading:
 - [ ] Foot, P. “Virtue and Vices‟, in her Virtues and Vices (Blackwell, 1978)
 - [ ] Susan Wolf (1982). “Moral Saints”. Journal of Philosophy, 79 (8): 419–439
 - [ ] Peter Singer (1972). “Famine, Affluence, and Morality”. Philosophy and Public Affairs, 1 (3): 229–243
+
+*Additio*
