@@ -52,3 +52,6 @@ The issue is not so much modification or no modification, but how big of a modif
 I don't think so, for reasons I described in the last three bullet points. (To be clear, I myself have some sympathies with the substitutional interpretation, but I have to admit that it's not philosophically easy to justify the requirement that all objects are countable and have names. That said, I think that's justifiable in special cases, such as first-order theories of arithmetic, where the domain is the counting numbers.)
 
 Best,
+
+---
+Thank you, I agree!
