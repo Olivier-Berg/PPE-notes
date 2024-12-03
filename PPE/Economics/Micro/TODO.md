@@ -2,7 +2,7 @@
 
 **GET THIS BOOK TO PRACTICE:**
 
-
+![[PHOTO-2024-12-03-18-19-30.jpg]]
 
 ## Week 2
 - [x] Math chapter 5-6
