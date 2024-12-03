@@ -59,7 +59,7 @@ additional reading:
 
 **Core Reading**
 - [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs.2,3,5
-- [ ] *Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.6
+- [x] *Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.6
 - [ ] *Bernard Williams (1973). “A Critique of Utilitarianism”. In: _Utilitarianism: For and Against._ Cambridge; Cambridge University Press: §§3-5
 - [ ] Crisp, R. “Mill on virtue as a part of happiness‟, British Journal for the History of Philosophy 4 (1996), pp. 367-380
 
