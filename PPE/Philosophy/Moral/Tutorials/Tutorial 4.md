@@ -18,7 +18,9 @@ However, a lot of ea thinkers (nick bostrtom), also emphasize future generations
 
 With AI or something explain pascals mugging perhaps, and then explain that this very small chance does not work, however there still is a problem when you think about things which will most definitely go bad
 
-however, Mill could counter this will multi-level utilitarianism. And perhaps this would tell you to choose a middenweg between de uitersten ()
+however, Mill could counter this will multi-level utilitarianism. And perhaps this would tell you to choose a middenweg between de uitersten (care about climate while simultaneously caring about friends and personal connection etc.).
+
+
 
 
 
