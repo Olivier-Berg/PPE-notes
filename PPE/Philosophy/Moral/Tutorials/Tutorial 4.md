@@ -12,4 +12,4 @@ Natalism makes all of this even worse, pascal's mugging kan dit niet oplossen
 
 explain that utilitarianism can be too demanding therefore integrity objection
 
-One can defend 
+One can defend this, however, by saying that utilitarians should just bite the bullet and accept that we will have to give up our own happiness (because of circumstances shaped by other crisp p. 147), in order to improve the world (perhaps not even sacrifice h)
