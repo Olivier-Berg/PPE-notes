@@ -55,6 +55,8 @@ additional reading:
 
 
 ## Week 8
+- [ ] Essay
+
 **Core Reading**
 - [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs.2,3,5
 - [ ] *Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.6
@@ -69,4 +71,4 @@ additional reading:
 - [ ] Peter Singer (1972). “Famine, Affluence, and Morality”. Philosophy and Public Affairs, 1 (3): 229–243
 
 **Further Reading from Crisp**
-- [ ] In addition to the works of Williams discussed in this chapter (Williams 1973b; 1976a; 1976b; preface to 1981; 1985; 1995), see the following responses to his arguments: Harris 1974; Davis 1980; Conly 1983; Barry 1995: ch. 9; Hollis 1995. Integrity is interestingly discussed in connection with ‘agent-centred restrictions’ on killing, etc., in Harris 1989. Alienation and modern ethical theory are discussed in Stocker 1976; Railton 1984. Good discussions of impartiality and partiality in ethics are Cottingham 1983; 1996. An excellent discussion of agent-relative attachments is Oldenquist 1982. For further defence of the critique of utilitarianism based on integrity and the separateness of persons, see Crisp 1996b. The most sophisticated attempt to combine an impartial maximizing morality with agent-relative reasons to give priority to oneself is Scheffler 1982.
+In addition to the works of Williams discussed in this chapter (Williams 1973b; 1976a; 1976b; preface to 1981; 1985; 1995), see the following responses to his arguments: Harris 1974; Davis 1980; Conly 1983; Barry 1995: ch. 9; Hollis 1995. Integrity is interestingly discussed in connection with ‘agent-centred restrictions’ on killing, etc., in Harris 1989. Alienation and modern ethical theory are discussed in Stocker 1976; Railton 1984. Good discussions of impartiality and partiality in ethics are Cottingham 1983; 1996. An excellent discussion of agent-relative attachments is Oldenquist 1982. For further defence of the critique of utilitarianism based on integrity and the separateness of persons, see Crisp 1996b. The most sophisticated attempt to combine an impartial maximizing morality with agent-relative reasons to give priority to oneself is Scheffler 1982.
