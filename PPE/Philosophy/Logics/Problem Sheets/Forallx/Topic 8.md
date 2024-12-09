@@ -1,2 +1,2 @@
 A.
-From $Ay \leftrightarrow x = y$ you can conclude that $x=y \rightarrow Ay$ therefore, since x = y, $x = y \rightarrow (Ay \land )
+From $Ay \leftrightarrow x = y$ you can conclude that $(Ax \land Ay) \leftrightarrow x=y$ because x = y. 
