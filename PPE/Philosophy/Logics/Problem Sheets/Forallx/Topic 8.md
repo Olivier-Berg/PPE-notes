@@ -1,2 +1,2 @@
 A.
-From $Ay \leftrightarrow x = y$ you can conclude that $(Ax \land Ay) \leftrightarrow x=y$ because x = y. 
+You are saying that there is one x, so that every apple y is the same as that x 
