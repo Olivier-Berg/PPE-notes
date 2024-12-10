@@ -1,6 +1,1 @@
-A.
-- You are saying that there is one x, so that every y is an apple if and only if it is the same as x. Therefore, x is also apple.
-- exactly the same
-
-
-
+![[Scherm­afbeelding 2024-12-10 om 16.20.27.png]]
