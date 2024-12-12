@@ -55,7 +55,7 @@ additional reading:
 
 
 ## Week 8
-- [x] Essay
+- [x] Essay [[Is the objection that Utilitarianism undermines integrity convincing?.pdf]]
 
 **Core Reading**
 - [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs.2,3,5
