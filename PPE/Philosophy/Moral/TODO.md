@@ -2,7 +2,7 @@
 ## Week 5
 - [x] essay [[Does Mill’s distinction between higher and lower pleasures provide a successful defence of Hedonism?.pdf]]
 
-**Core Reading**
+**Core Readings**
 - [ ] John Stuart Mill (1863 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Chs. 2 & 4
 	- [ ] ch 2
 	- [ ] ch 4
@@ -13,7 +13,7 @@
 - [x] Elizabeth S. Anderson (1991). “John Stuart Mill and Experiments in Living”. Ethics, 102 (1): 4–26
 	- [ ] Page 22-26
 
-additional reading:
+**Additional Readings**
 - [ ] Roger Crisp (2006). “Hedonism Reconsidered”. Philosophy and Phenomenological Research, 73 (3): 619–645
 - [ ] Derek Parfit (1986). _Reasons and Persons_. Oxford: Oxford University Press: 493-502
 - [ ] Felipe De Brigard (2010). “If You Like It, Does It Matter If It’s Real?” Philosophical Psychology, 23 (1): 43–57
