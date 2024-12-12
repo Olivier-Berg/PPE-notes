@@ -6,4 +6,4 @@ Crisp p. 169. People might be impartial to a certain extent by nature, perhaps b
 
 Crisp p. 169. I think this is unfair and dismisses the fact the 90 is almost double 50, however, because we don't see happiness as linear, it is difficult for us to imagine what double the happiness actually looks like.
 
-Crisp p. 170. I think this is a very good point. There is (at least one) decision for which we cannot use our moral theory. Namely, the decision which moral theory to use, if we would use the moral theory for this decision, it would be a ciclical fallacy.
+Crisp p. 170. I think this is a very good point. There is (at least one) decision for which we cannot use our moral theory. Namely, the decision which moral theory to use, if we would use the moral theory for this decision, it would be a ci
