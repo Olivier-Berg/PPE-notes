@@ -75,28 +75,14 @@ In addition to the works of Williams discussed in this chapter (Williams 1973b; 
 
 ## Week 9
 **Core Reading**
-- [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford
-
-University Press: Ch.5
-
-Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.7
-
-H.L.A. Hart (1982). “Natural Rights: Bentham and John Stuart Mill”. In: Essays on Bentham. Ed.
-
-by H.L.A. Hart. Oxford: Oxford University Press
-
-L.W. Summer (2006). “Mill’s Theory of Rights”. In: Blackwell Guide to Mill’s Utilitarianism. Ed.
-
-by H. West. London: Blackwell
+- [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford University Press: Ch.5
+- [x] Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.7
+	- [ ] Understand p. 162-167
+- [ ] H.L.A. Hart (1982). “Natural Rights: Bentham and John Stuart Mill”. In: Essays on Bentham. Ed. by H.L.A. Hart. Oxford: Oxford University Press
+- [ ] L.W. Summer (2006). “Mill’s Theory of Rights”. In: Blackwell Guide to Mill’s Utilitarianism. Ed. by H. West. London: Blackwell
 
 **Additional Reading:**
-
-D. Lyons (1994). _Rights, Welfare and Mill’s Moral Theory._ Oxford: Oxford University Press: Chs.3,5
-
-Jonathan Wolff (2015). _An Introduction to Political Philosophy_. Third Edition. Oxford: Oxford
-
-University Press: Chs.6–7
-
-Robert Nozick (1974). _Anarchy, State, and Utopia._ London: Wiley-Blackwell: Ch.7, §1
-
-John Rawls (1991). _A Theory of Justice_. Revised Edition. Oxford: Oxford University Press: Ch.1
+- [ ] D. Lyons (1994). _Rights, Welfare and Mill’s Moral Theory._ Oxford: Oxford University Press: Chs.3,5
+- [ ] Jonathan Wolff (2015). _An Introduction to Political Philosophy_. Third Edition. Oxford: Oxford University Press: Chs.6–7
+- [ ] Robert Nozick (1974). _Anarchy, State, and Utopia._ London: Wiley-Blackwell: Ch.7, §1
+- [ ] John Rawls (1991). _A Theory of Justice_. Revised Edition. Oxford: Oxford University Press: Ch.1
