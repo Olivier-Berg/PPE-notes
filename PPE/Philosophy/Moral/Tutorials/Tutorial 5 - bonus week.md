@@ -4,4 +4,4 @@ Mill entirely agrees with this. Crisp p. 159. Where does this strong animal feel
 [[How is Mill’s ‘proof’ of Utilitarianism supposed to work? Does it succeed?.pdf#page=3&selection=136,2,208,77|How is Mill’s ‘proof’ of Utilitarianism supposed to work? Does it succeed?, page 3]]
 Crisp p. 169. People might be impartial to a certain extent by nature, perhaps because of evolution. But we are not entirely impartial.
 
-Crisp p. 169. I think this is unfair and dismisses the fact the 90 is almost double 50, however, because we don't see happiness as linear, it is difficult for us to imagine what double the happiness actually
+Crisp p. 169. I think this is unfair and dismisses the fact the 90 is almost double 50, however, because we don't see happiness as linear, it is difficult for us to imagine what double the happiness actually looks like.
