@@ -68,7 +68,7 @@
 - [ ] Elizabeth Ashford (2000). “Utilitarianism, Integrity, and Partiality”. Journal of Philosophy, 97 (8): 421–439 
 - [ ] Foot, P. “Virtue and Vices‟, in her Virtues and Vices (Blackwell, 1978)
 - [ ] Susan Wolf (1982). “Moral Saints”. Journal of Philosophy, 79 (8): 419–439
-- [ ] Peter Singer (1972). “Famine, Affluence, and Morality”. Philosophy and Public Affairs, 1 (3): 229–243
+- [x] Peter Singer (1972). “Famine, Affluence, and Morality”. Philosophy and Public Affairs, 1 (3): 229–243
 
 **Further Reading from Crisp**
 In addition to the works of Williams discussed in this chapter (Williams 1973b; 1976a; 1976b; preface to 1981; 1985; 1995), see the following responses to his arguments: Harris 1974; Davis 1980; Conly 1983; Barry 1995: ch. 9; Hollis 1995. Integrity is interestingly discussed in connection with ‘agent-centred restrictions’ on killing, etc., in Harris 1989. Alienation and modern ethical theory are discussed in Stocker 1976; Railton 1984. Good discussions of impartiality and partiality in ethics are Cottingham 1983; 1996. An excellent discussion of agent-relative attachments is Oldenquist 1982. For further defence of the critique of utilitarianism based on integrity and the separateness of persons, see Crisp 1996b. The most sophisticated attempt to combine an impartial maximizing morality with agent-relative reasons to give priority to oneself is Scheffler 1982.
