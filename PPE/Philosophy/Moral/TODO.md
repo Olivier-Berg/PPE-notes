@@ -74,3 +74,29 @@ additional reading:
 In addition to the works of Williams discussed in this chapter (Williams 1973b; 1976a; 1976b; preface to 1981; 1985; 1995), see the following responses to his arguments: Harris 1974; Davis 1980; Conly 1983; Barry 1995: ch. 9; Hollis 1995. Integrity is interestingly discussed in connection with ‘agent-centred restrictions’ on killing, etc., in Harris 1989. Alienation and modern ethical theory are discussed in Stocker 1976; Railton 1984. Good discussions of impartiality and partiality in ethics are Cottingham 1983; 1996. An excellent discussion of agent-relative attachments is Oldenquist 1982. For further defence of the critique of utilitarianism based on integrity and the separateness of persons, see Crisp 1996b. The most sophisticated attempt to combine an impartial maximizing morality with agent-relative reasons to give priority to oneself is Scheffler 1982.
 
 ## Week 9
+**Core Reading**
+- [ ] John Stuart Mill ([1863] 1998). _Utilitarianism_. Ed. by Roger Crisp. Fourth Edition. Oxford: Oxford
+
+University Press: Ch.5
+
+Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.7
+
+H.L.A. Hart (1982). “Natural Rights: Bentham and John Stuart Mill”. In: Essays on Bentham. Ed.
+
+by H.L.A. Hart. Oxford: Oxford University Press
+
+L.W. Summer (2006). “Mill’s Theory of Rights”. In: Blackwell Guide to Mill’s Utilitarianism. Ed.
+
+by H. West. London: Blackwell
+
+**Additional Reading:**
+
+D. Lyons (1994). _Rights, Welfare and Mill’s Moral Theory._ Oxford: Oxford University Press: Chs.3,5
+
+Jonathan Wolff (2015). _An Introduction to Political Philosophy_. Third Edition. Oxford: Oxford
+
+University Press: Chs.6–7
+
+Robert Nozick (1974). _Anarchy, State, and Utopia._ London: Wiley-Blackwell: Ch.7, §1
+
+John Rawls (1991). _A Theory of Justice_. Revised Edition. Oxford: Oxford University Press: Ch.1
