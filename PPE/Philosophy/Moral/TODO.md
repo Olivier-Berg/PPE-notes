@@ -79,7 +79,7 @@ In addition to the works of Williams discussed in this chapter (Williams 1973b; 
 - [x] Roger Crisp (1997). _Mill on Utilitarianism_. London: Routledge: Ch.7
 	- [ ] Understand p. 162-167
 - [ ] H.L.A. Hart (1982). “Natural Rights: Bentham and John Stuart Mill”. In: Essays on Bentham. Ed. by H.L.A. Hart. Oxford: Oxford University Press
-- [ ] L.W. Summer (2006). “Mill’s Theory of Rights”. In: Blackwell Guide to Mill’s Utilitarianism. Ed. by H. West. London: Blackwell
+- [x] L.W. Summer (2006). “Mill’s Theory of Rights”. In: Blackwell Guide to Mill’s Utilitarianism. Ed. by H. West. London: Blackwell
 
 **Additional Reading:**
 - [ ] D. Lyons (1994). _Rights, Welfare and Mill’s Moral Theory._ Oxford: Oxford University Press: Chs.3,5
