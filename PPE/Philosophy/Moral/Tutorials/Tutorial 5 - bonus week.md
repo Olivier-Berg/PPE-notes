@@ -11,3 +11,4 @@ Crisp p. 170. I think this is a very good point. There is (at least one) decisio
 ---
 Essay idea:
 nuclear terrorism: https://www.youtube.com/watch?v=A9YO5bnWmT4
+movie: untinkable
