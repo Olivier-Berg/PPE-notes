@@ -1,6 +1,6 @@
 #microeconomics
-
-**GET THIS BOOK TO PRACTICE:**
+Math explanation (by 3b1b): https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7
+**GET THIS BOOK TO PRACTICE:*
 
 ![[PHOTO-2024-12-03-18-19-30.jpg]]
 
