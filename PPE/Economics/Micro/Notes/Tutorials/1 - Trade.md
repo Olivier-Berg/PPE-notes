@@ -1,4 +1,9 @@
 #tutorial #microeconomics 
+![[Scherm­afbeelding 2024-12-17 om 23.08.37.png]]
+**WHY IS IT EQUIVALENT!!!**
+
+---
+
 Feedback: [[Week 1.pdf]]
 
 If both specialize, the total amount of possibilities increases.
