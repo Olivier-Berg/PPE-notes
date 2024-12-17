@@ -1,6 +1,9 @@
 #tutorial #microeconomics 
 ![[Scherm­afbeelding 2024-12-17 om 23.08.37.png]]
-**IMPORTANT, they are equivalent (i **
+**IMPORTANT, they are equivalent (i get it now). Because: **
+![[Scherm­afbeelding 2024-12-17 om 23.11.49.png]]
+
+$p_1^A < P_1^B
 
 ---
 
