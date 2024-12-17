@@ -4,7 +4,9 @@
 ![[Scherm­afbeelding 2024-12-17 om 23.11.49.png]]
 
 $p_1^A < P_1^B$ means that the opportunity cost of producing it yourself is larger than the cost of just buying it.
-which is exactly the same as comparative advantage. The opportunity cost (the lost money by not producing other things)
+which is exactly the same as comparative advantage. The opportunity cost (the lost money by not producing other things) is larger than just buying it from the other one.
+
+The thing about wages does not really matter, it is just separating price into wages and labour hours. But i guess it's interesting.
 
 ---
 
