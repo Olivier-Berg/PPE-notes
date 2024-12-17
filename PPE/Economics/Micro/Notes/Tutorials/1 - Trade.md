@@ -1,9 +1,10 @@
 #tutorial #microeconomics 
 ![[Scherm­afbeelding 2024-12-17 om 23.08.37.png]]
-**IMPORTANT, they are equivalent (i get it now). Because: **
+**IMPORTANT, they are equivalent (i get it now). Because:**
 ![[Scherm­afbeelding 2024-12-17 om 23.11.49.png]]
 
-$p_1^A < P_1^B
+$p_1^A < P_1^B$ means that the opportunity cost of producing it yourself is larger than the cost of just buying it.
+which is exactly the same as comparative advantage
 
 ---
 
