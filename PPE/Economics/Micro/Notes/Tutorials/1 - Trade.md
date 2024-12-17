@@ -1,6 +1,7 @@
 #tutorial #microeconomics 
 ![[Scherm­afbeelding 2024-12-17 om 23.08.37.png]]
 **WHY IS IT EQUIVALENT!!!**
+why is it comparative advantage, you only care about the price. So is it not absolute advantage.
 
 ---
 
