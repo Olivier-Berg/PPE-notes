@@ -13,3 +13,6 @@ Essay idea:
 nuclear terrorism: https://www.youtube.com/watch?v=A9YO5bnWmT4
 movie: untinkable
 perhaps tie it in with negative responsibility? Therefore, the distinction between perfect and imperfect obligations is useless???
+
+EVEN BETTER:
+my previous essay (tutorial 4) requires that time is infinite (there will always be people who will be capable of experiencing pleasure). However, when time is not infinite then there is an actual solution to this problem
