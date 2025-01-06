@@ -15,4 +15,4 @@ movie: untinkable
 perhaps tie it in with negative responsibility? Therefore, the distinction between perfect and imperfect obligations is useless???
 
 EVEN BETTER:
-my previous essay (tutorial 4) requires that time is infinite (there will always be people who will be capable of experiencing pleasure). However, when time is not infinite then there is an actual solution to this problem: Snell's law, maybe (is it????). However, then there is still a problem with this. Talk about how terrorists could still be able to force us to do anything they wanted. 
+my previous essay (tutorial 4) requires that time is infinite (there will always be people who will be capable of experiencing pleasure). However, when time is not infinite then there is an actual solution to this problem: Snell's law, maybe (is it????). However, then there is still a problem with this, this is the same as how terrorists could still be able to force us to do anything they wanted. Therefore we would need justice. Mill does
