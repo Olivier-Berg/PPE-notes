@@ -16,4 +16,4 @@ perhaps tie it in with negative responsibility? Therefore, the distinction betwe
 
 EVEN BETTER:
 my previous essay (tutorial 4) requires that time is infinite (there will always be people who will be capable of experiencing pleasure). However, when time is not infinite then there is an actual solution to this problem: Snell's law, maybe (is it????). However, then there is still a problem with this, this is the same as how terrorists could still be able to force us to do anything they wanted. Therefore we would need justice. Mill does give an idea of justice. But is this enough? It is still based on happiness. And you still have the problem of leaving the lights on...
-Are these two cases really the same??
+Are these two cases really the same?? Think about this.
