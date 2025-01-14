@@ -60,10 +60,13 @@ Math explanation (by 3b1b): https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5
 - [x] College Tute Sheet Question 1*
 
 ## Week 7
-- [x] Lecture slides
+- [ ] Lecture slides
 - [ ] Demonstration lectures
 	- [x] P0-D3
 	- [ ] D4 - M4
 - [ ] James Duffy’s amazing notes (see link on Merton Canvas site)
 - [ ] My notes on the Merton Canvas site
 You do not need to hand in any written work in advance, but we will have a quiz on the material covered in the probability & stats lectures so far. Please cover the following topics by Week 7: “Probability Theory” and “Data, Variables, and Moments”
+
+## Week 8
+All done
