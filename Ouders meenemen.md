@@ -1,0 +1,3 @@
+- Dyson fan (verpact in bubble wrap ofzo als dat mogelijk is, kan ik hem ook weer goed opbergen over de break)
+- zendium tandpasta
+- 
