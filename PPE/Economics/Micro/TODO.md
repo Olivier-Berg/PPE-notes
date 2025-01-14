@@ -25,20 +25,20 @@ Math explanation (by 3b1b): https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5
 - [x] Maths Workbook Review Chapter 6. And please cover Chapters 7 and 8.
 - [ ] CORE 7
 - [x] P 6, 7, 8
-	- [x] p. 217 de math workbook
-	- [x] p. 218-221 elasticity of MRTS
-	- [x] p. 251-259 lagrange ...
-	- [x] p. 277-278
-	- [x] p. 285-286
+	- [ ] p. 217 de math workbook
+	- [ ] p. 218-221 elasticity of MRTS
+	- [ ] p. 251-259 lagrange ...
+	- [ ] p. 277-278
+	- [ ] p. 285-286
 	- [ ] p. 293-295
 	- [ ] p. 303-305
 	- [ ] 307
 - [x] Departmental Tute Sheet Problems 3*, 4*, and 6*
 - [x] College Tute Sheet Question 2* but skip part a(i) (will likely discuss Questions 1 and 3-6 in class)
-- [ ] understand the PS = revenue - ...
+- [x] understand the PS = revenue - ...
 
 ## Week 5
-- [ ] Maths Workbook Review 4.7-4.8, 5.5-5.7, 6.1-6.2, 6.4, 7.1-7.3 (and see Exercise 7.3(3) – solutions in the back), 7.4 (and see Exercise 7.5 – solutions in the back). Also have a look at 9.1, 9.3, 9.5, and 10.
+- [x] Maths Workbook Review 4.7-4.8, 5.5-5.7, 6.1-6.2, 6.4, 7.1-7.3 (and see Exercise 7.3(3) – solutions in the back), 7.4 (and see Exercise 7.5 – solutions in the back). Also have a look at 9.1, 9.3, 9.5, and 10.
 - [ ] CORE 2 (2.7 onwards) and 3
 - [x] P 3, 4 
 	NB: you need to read about the Slutsky Equation. Varian does it holding income fixed but your lectures will do it holding utility fixed. Please learn it as the latter.
@@ -60,7 +60,7 @@ Math explanation (by 3b1b): https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5
 - [x] College Tute Sheet Question 1*
 
 ## Week 7
-- [ ] Lecture slides
+- [x] Lecture slides
 - [ ] Demonstration lectures
 	- [x] P0-D3
 	- [ ] D4 - M4
