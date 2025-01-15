@@ -76,5 +76,6 @@ All done
 - [ ] understand ps = revenue - avc = profit - fixed cost
 - [ ] understand collusion with oligopoly and when they should defect
 - then do questions
-	- [ ] A1 2019
+	- [ ] 1 2019
+	- [ ] 1 2023
 	- [ ] 
