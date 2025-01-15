@@ -73,5 +73,8 @@ All done
 
 ## Revision
 - [ ] Finish revision with consumer theory
-- [ ] understand ps = revenue - avc
-- [ ] unde
+- [ ] understand ps = revenue - avc = profit - fixed cost
+- [ ] understand collusion with oligopoly and when they should defect
+- then do questions
+	- [ ] 1 2019
+	- [ ] 
