@@ -70,3 +70,8 @@ You do not need to hand in any written work in advance, but we will have a quiz 
 
 ## Week 8
 All done
+
+## Revision
+- [ ] Finish revision with consumer theory
+- [ ] understand ps = revenue - avc
+- [ ] unde
