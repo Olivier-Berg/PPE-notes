@@ -77,7 +77,7 @@ All done
 - [ ] understand collusion with oligopoly and when they should defect
 - then do questions
 	- [x] 1 2019
-	- [ ] 1 2023
+	- [x] 1 2023
 	- [ ] 1 TT 2016
 	- [ ] 
 - [x] 2024
