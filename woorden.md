@@ -7,4 +7,3 @@ overtuigen = convince/persuade (ik overtuigde de man dat hij niet gelijk had)
 noodzakelijk = necessary
 aandacht = attention
 duur = duration (de duur van de opera was heel erg lang)
-inner
