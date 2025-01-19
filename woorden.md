@@ -4,3 +4,5 @@ de passagiers realiseren zich/bij de passagiers groeit het besef dat ze geen par
 beleven/ervaren = experience (beleven is meer met avonturen (de man beleeft veel avonturen))
 pleidooi = a plea (pleidooi) for human rights
 overtuigen = convince/persuade (ik overtuigde de man dat hij niet gelijk had)
+noodzakelijk = necessary
+aandacht = attention
