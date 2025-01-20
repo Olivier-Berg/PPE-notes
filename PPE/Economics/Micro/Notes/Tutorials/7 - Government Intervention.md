@@ -1,1 +1,1 @@
-For the symmetric equilibrium question, they are all 
+For the symmetric equilibrium question, they all the point on that line are equilibria, however, they just ask for a symmetric one. So it is a little bit arbitrary, but that is just the question.
