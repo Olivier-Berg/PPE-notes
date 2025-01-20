@@ -1,0 +1,1 @@
+For the symmetric equilibrium question, they are all 
