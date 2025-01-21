@@ -15,5 +15,6 @@
 - Although it’s small, this café is very cozy.
 - hoewel het klein is, is dit cafe heel gezellig
 - When the bell rang, the students left quickly.
-- toen de bel ging, gingen de studenten snel w
+- toen de bel ging, gingen de studenten snel weg
 - Unless it rains, we’ll have a picnic tomorrow.
+- tenzij 
