@@ -17,4 +17,4 @@
 - When the bell rang, the students left quickly.
 - toen de bel ging, gingen de studenten snel weg
 - Unless it rains, we’ll have a picnic tomorrow.
-- tenzij 
+- tenzij het regent, doen we morgen een picnic
