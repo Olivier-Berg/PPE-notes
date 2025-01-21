@@ -1,9 +1,11 @@
-hollen = rennen (run)
-het besef groeit = mensen realiseren iets (people realise that...)
-de passagiers realiseren zich/bij de passagiers groeit het besef dat ze geen parachute bij zich hebben
-beleven/ervaren = experience (beleven is meer met avonturen (de man beleeft veel avonturen))
-pleidooi = a plea (pleidooi) for human rights
-overtuigen = convince/persuade (ik overtuigde de man dat hij niet gelijk had)
-noodzakelijk = necessary
-aandacht = attention
-duur = duration (de duur van de opera was heel erg lang)
+- Although it was late, she kept reading.
+- hoewel het laat was, bleef ze lezen
+- If you need help, just call me.
+- Because he was tired, he went to bed early.
+- While she waited, it began to rain.
+- Since you’re here, let’s start the meeting.
+- Even though he apologized, she remained upset.
+- If you don’t hurry, you’ll miss the bus.
+- Although it’s small, this café is very cozy.
+- When the bell rang, the students left quickly.
+- Unless it rains, we’ll have a picnic tomorrow.
