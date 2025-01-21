@@ -17,21 +17,10 @@
 - [ ] Cox, Gary W. (2006), “The Organization of Democratic Legislatures”, in The Oxford Handbook of Political Economy, ed. by Barry R. Weingast and Donald A. Wittman, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/ 9780199548477.003.0008.
 - [ ] Duverger, Maurice (1980), “A New Political System Model: Semi-presidential Government”, European Journal of Political Research, 8, 2, pp. 165–187, doi: 10.1111/j.1475-6765.1980.tb00569.x.
 - [ ] Elgie, Robert (1998), “The Classification of Democratic Regime Types: Concep- tual Ambiguity and Contestable Assumptions”, European Journal of Political Research, 33, 2 (Mar. 1998), pp. 219–238, doi: 10.1111/1475-6765.00381.
-
-Lijphart, Arend (ed.) (1992), Parliamentary versus Presidential Government, Oxford: Oxford University Press.
-
-Linz, Juan J. (1990), “The Perils of Presidentialism”, Journal of Democracy, 1, 1, pp. 51–69, doi: 0.1353/jod.1990.0011.
-
-Sedelius, Thomas and Jenny Åberg (2020), “Eastern Europe’s Semi-Presidential Regimes”, in The Routledge Handbook of East European Politics, ed. by Adam Fagan and Petr Kopecký, Routledge Handbooks, London New York: Rout- ledge, Taylor & Francis Group.
-
-Shugart, Matthew Søberg (2008), “Comparative Executive–Legislative Rela- tions”, in The Oxford Handbook of Political Institutions, ed. by Sarah A. Binder,
-R. A. W. Rhodes, and Bert A. Rockman, Oxford: Oxford University Press,
-
-doi: 10.1093/oxfordhb/9780199548460.003.0018.  
-Siaroff, Alan (2003), “Comparative Presidencies: The Inadequacy of the Presi-
-
-dential, Semi-Presidential and Parliamentary Distinction”, European Journal of Political Research, 42, 3 (May 2003), pp. 287–312, doi: 10.1111/1475- 6765.00084.
-
-Strøm, Kaare (2003), “Parliamentary Democracy and Delegation”, in Delega- tion and Accountability in Parliamentary Democracies, ed. by Kaare Strøm, Torbjörn Bergman, and Wolfgang C. Müller, Oxford: Oxford University Press.
-
-Van Cranenburgh, Oda (2008), “‘Big Men’ Rule: Presidential Power, Regime Type and Democracy in 30 African Countries”, Democratization, 15, 5 (Dec. 1, 2008), pp. 952–973, doi: 10.1080/13510340802362539.
+- [ ] Lijphart, Arend (ed.) (1992), Parliamentary versus Presidential Government, Oxford: Oxford University Press.
+- [ ] Linz, Juan J. (1990), “The Perils of Presidentialism”, Journal of Democracy, 1, 1, pp. 51–69, doi: 0.1353/jod.1990.0011.
+- [ ] Sedelius, Thomas and Jenny Åberg (2020), “Eastern Europe’s Semi-Presidential Regimes”, in The Routledge Handbook of East European Politics, ed. by Adam Fagan and Petr Kopecký, Routledge Handbooks, London New York: Rout- ledge, Taylor & Francis Group.
+- [ ] Shugart, Matthew Søberg (2008), “Comparative Executive–Legislative Rela- tions”, in The Oxford Handbook of Political Institutions, ed. by Sarah A. Binder, R. A. W. Rhodes, and Bert A. Rockman, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/9780199548460.003.0018.  
+- [ ] *Siaroff, Alan (2003), “Comparative Presidencies: The Inadequacy of the Presi-dential, Semi-Presidential and Parliamentary Distinction”, European Journal of Political Research, 42, 3 (May 2003), pp. 287–312, doi: 10.1111/1475- 6765.00084.*
+- [ ] Strøm, Kaare (2003), “Parliamentary Democracy and Delegation”, in Delega- tion and Accountability in Parliamentary Democracies, ed. by Kaare Strøm, Torbjörn Bergman, and Wolfgang C. Müller, Oxford: Oxford University Press.
+- [ ] Van Cranenburgh, Oda (2008), “‘Big Men’ Rule: Presidential Power, Regime Type and Democracy in 30 African Countries”, Democratization, 15, 5 (Dec. 1, 2008), pp. 952–973, doi: 10.1080/13510340802362539.
