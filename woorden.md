@@ -11,6 +11,9 @@
 - Even though he apologized, she remained upset.
 - hoewel hij sorry zei, bleef ze verdrietig
 - If you don’t hurry, you’ll miss the bus.
+- als je je niet haast, mis je de bus
 - Although it’s small, this café is very cozy.
+- hoewel het klein is, is dit cafe heel gezellig
 - When the bell rang, the students left quickly.
+- toen de bel ging, gingen de studenten snel w
 - Unless it rains, we’ll have a picnic tomorrow.
