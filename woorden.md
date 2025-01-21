@@ -1,8 +1,11 @@
 - Although it was late, she kept reading.
 - hoewel het laat was, bleef ze lezen
 - If you need help, just call me.
+- als je hulp nodig hebt, bel me gewoon
 - Because he was tired, he went to bed early.
+- omdat hij moe was, ging hij vroeg naar bed
 - While she waited, it began to rain.
+- terwijl zij wachtee
 - Since you’re here, let’s start the meeting.
 - Even though he apologized, she remained upset.
 - If you don’t hurry, you’ll miss the bus.
