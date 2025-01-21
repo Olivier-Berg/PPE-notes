@@ -5,9 +5,11 @@
 - Because he was tired, he went to bed early.
 - omdat hij moe was, ging hij vroeg naar bed
 - While she waited, it began to rain.
-- terwijl zij wachtee
+- terwijl zij wachtte, begon het te regen
 - Since you’re here, let’s start the meeting.
+- aangezien je hier bent, laten we de vergaring beginnen
 - Even though he apologized, she remained upset.
+- hoewel hij sorry zei, beel ze verdrietig
 - If you don’t hurry, you’ll miss the bus.
 - Although it’s small, this café is very cozy.
 - When the bell rang, the students left quickly.
