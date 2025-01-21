@@ -9,7 +9,7 @@
 - Since you’re here, let’s start the meeting.
 - aangezien je hier bent, laten we de vergaring beginnen
 - Even though he apologized, she remained upset.
-- hoewel hij sorry zei, beel ze verdrietig
+- hoewel hij sorry zei, bleef ze verdrietig
 - If you don’t hurry, you’ll miss the bus.
 - Although it’s small, this café is very cozy.
 - When the bell rang, the students left quickly.
