@@ -29,4 +29,4 @@
 - [ ] Bates, Robert H. (2007), “From Case Studies to Social Science: A Strategy for Political Research”, in The Oxford Handbook of Comparative Politics, ed. by Carles Boix and Susan C. Stokes, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/9780199566020.003.0007.
 - [ ] Gerring, John (2007), “The Case Study: What It Is and What It Does”, in The Oxford Handbook of Comparative Politics, ed. by Carles Boix and Susan C. Stokes, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/9780199 566020.003.0004.
 
-**REAL LINZ**
+**READ LINZ**
