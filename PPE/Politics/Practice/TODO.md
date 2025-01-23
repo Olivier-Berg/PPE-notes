@@ -1,6 +1,7 @@
 **JUST READ THE ELECTORAL SYSTEM**
 - oxford handbook of comparative politics
-- oxfo
+- oxford handbook of political parties
+- sebelius 2002 veto players
 
 ## Week 1
 **Introductory Reading**
