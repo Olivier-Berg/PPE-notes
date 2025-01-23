@@ -28,9 +28,7 @@
 - [ ] Shugart, Matthew Søberg (2008), “Comparative Executive–Legislative Rela- tions”, in The Oxford Handbook of Political Institutions, ed. by Sarah A. Binder, R. A. W. Rhodes, and Bert A. Rockman, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/9780199548460.003.0018.  
 - [ ] *Siaroff, Alan (2003), “Comparative Presidencies: The Inadequacy of the Presi-dential, Semi-Presidential and Parliamentary Distinction”, European Journal of Political Research, 42, 3 (May 2003), pp. 287–312, doi: 10.1111/1475- 6765.00084.*
 - [ ] Strøm, Kaare (2003), “Parliamentary Democracy and Delegation”, in Delega- tion and Accountability in Parliamentary Democracies, ed. by Kaare Strøm, Torbjörn Bergman, and Wolfgang C. Müller, Oxford: Oxford University Press.
-- [ ] Van Cranenbur
-- [ ] 
-- [ ] gh, Oda (2008), “‘Big Men’ Rule: Presidential Power, Regime Type and Democracy in 30 African Countries”, Democratization, 15, 5 (Dec. 1, 2008), pp. 952–973, doi: 10.1080/13510340802362539.
+- [ ] Van Cranenburgh, Oda (2008), “‘Big Men’ Rule: Presidential Power, Regime Type and Democracy in 30 African Countries”, Democratization, 15, 5 (Dec. 1, 2008), pp. 952–973, doi: 10.1080/13510340802362539.
 
 **Methodological Reading**
 - [ ] Bates, Robert H. (2007), “From Case Studies to Social Science: A Strategy for Political Research”, in The Oxford Handbook of Comparative Politics, ed. by Carles Boix and Susan C. Stokes, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/9780199566020.003.0007.
