@@ -1,6 +1,8 @@
 **JUST READ THE OXFORD HANDBOOK**
 - oxford handbook of comparative politics
+- oxford handbook of political institutions
 - oxford handbook of political parties
+- oxford handbook of political economy
 - sebelius 2002 veto players
 
 ## Week 1
