@@ -12,6 +12,7 @@
 
 **Required Reading**
 - [x] Colomer, Josep M. (2006), “Comparative Constitutions”, in The Oxford Handbook of Political Institutions, ed. by R. A. W. Rhodes, Sarah A. Binder, and Bert A. Rockman, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/ 9780199548460.003.0012.
+	- [ ] what was in here again?
 - [x] Lijphart, Arend (2012a), “Chapter 7: Executive–Legislative Relations: Patterns of Dominance and Balance of Power”, in Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries, 2nd ed., New Haven: Yale University Press.
 - [ ] Samuels, David (2007), “Separation of Powers”, in The Oxford Handbook of Comparative Politics, ed. by Carles Boix and Susan Carol Stokes, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/9780199566020.003. 0029.
 	- [x] until page 6
@@ -22,10 +23,10 @@
 - [ ] Chaisty, Paul, Nic Cheeseman, and Timothy Power (2014), “Rethinking the ‘Pres- identialism Debate’: Conceptualizing Coalitional Politics in Cross-Regional Perspective”, Democratization, 21, 1 (Jan. 2, 2014), pp. 72–94, doi: 10.1080/ 13510347.2012.710604.
 - [ ] Cheibub, José Antônio (2007), Presidentialism, Parliamentarism, and Democ- racy, Cambridge Studies in Comparative Politics, New York, NY: Cambridge University Press.
 - [ ] Cox, Gary W. (2006), “The Organization of Democratic Legislatures”, in The Oxford Handbook of Political Economy, ed. by Barry R. Weingast and Donald A. Wittman, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/ 9780199548477.003.0008.
-- [ ] Duverger, Maurice (1980), “A New Political System Model: Semi-presidential Government”, European Journal of Political Research, 8, 2, pp. 165–187, doi: 10.1111/j.1475-6765.1980.tb00569.x.
+- [ ] **Duverger, Maurice (1980), “A New Political System Model: Semi-presidential Government”, European Journal of Political Research, 8, 2, pp. 165–187, doi: 10.1111/j.1475-6765.1980.tb00569.x.**
 - [ ] Elgie, Robert (1998), “The Classification of Democratic Regime Types: Concep- tual Ambiguity and Contestable Assumptions”, European Journal of Political Research, 33, 2 (Mar. 1998), pp. 219–238, doi: 10.1111/1475-6765.00381.
 - [ ] Lijphart, Arend (ed.) (1992), Parliamentary versus Presidential Government, Oxford: Oxford University Press.
-- [ ] Linz, Juan J. (1990), “The Perils of Presidentialism”, Journal of Democracy, 1, 1, pp. 51–69, doi: 0.1353/jod.1990.0011.
+- [ ] **Linz, Juan J. (1990), “The Perils of Presidentialism”, Journal of Democracy, 1, 1, pp. 51–69, doi: 0.1353/jod.1990.0011.**
 - [ ] Sedelius, Thomas and Jenny Åberg (2020), “Eastern Europe’s Semi-Presidential Regimes”, in The Routledge Handbook of East European Politics, ed. by Adam Fagan and Petr Kopecký, Routledge Handbooks, London New York: Rout- ledge, Taylor & Francis Group.
 - [ ] Shugart, Matthew Søberg (2008), “Comparative Executive–Legislative Rela- tions”, in The Oxford Handbook of Political Institutions, ed. by Sarah A. Binder, R. A. W. Rhodes, and Bert A. Rockman, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/9780199548460.003.0018.  
 - [ ] *Siaroff, Alan (2003), “Comparative Presidencies: The Inadequacy of the Presi-dential, Semi-Presidential and Parliamentary Distinction”, European Journal of Political Research, 42, 3 (May 2003), pp. 287–312, doi: 10.1111/1475- 6765.00084.*
