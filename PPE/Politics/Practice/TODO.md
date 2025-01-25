@@ -40,3 +40,6 @@
 - [ ] Gerring, John (2007), “The Case Study: What It Is and What It Does”, in The Oxford Handbook of Comparative Politics, ed. by Carles Boix and Susan C. Stokes, Oxford: Oxford University Press, doi: 10.1093/oxfordhb/9780199 566020.003.0004.
 
 **READ LINZ**
+
+## Week 2
+- Different Systems of Constitutional Justice p. 712
