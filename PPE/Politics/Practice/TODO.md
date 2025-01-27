@@ -43,3 +43,4 @@
 
 ## Week 2
 - Different Systems of Constitutional Justice p. 712
+until 783
