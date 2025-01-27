@@ -44,3 +44,4 @@
 ## Week 2
 - Different Systems of Constitutional Justice p. 712
 until 783
+how to get a majority from plurality? Difference between majority and consensual
