@@ -59,4 +59,11 @@ zui xihuan = favourite (most like)
 
 
 basketball (the radicals in basket are bamboo)
+![[Scherm­afbeelding 2025-01-28 om 18.30.20.png]]
+young people:
+nianqingren
+middleaged people:
+zhongqingren
+old people
+laoqingren
 
