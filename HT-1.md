@@ -16,3 +16,5 @@ er = only for the number
 
 meiyou = not have
 
+bu with shi
+mei only with you
