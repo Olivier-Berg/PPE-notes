@@ -39,3 +39,7 @@ ta xing wang
 ni duo da = how old are you
 ta ji sui = how many years old (use when person is child under 10), can also mean that you are acting like a child (how old are you???)
 
+wo shi ba sui = im 18
+
+zuoyou = around
+ni er shi sui zuo
