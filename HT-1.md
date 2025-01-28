@@ -20,3 +20,7 @@ bu with shi
 mei  with you
 other words can be done by both (but usually with bu)
 
+---
+ni zuo shenme gongzou
+wo shi yisheng
+wo
