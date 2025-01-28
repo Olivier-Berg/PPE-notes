@@ -70,3 +70,8 @@ laoqingren
 ---
 
 ![[Scherm­afbeelding 2025-01-28 om 18.49.55.png]]
+
+
+Homework:
+who is your favourite sportsperson:
+sport/name/age/nationality
