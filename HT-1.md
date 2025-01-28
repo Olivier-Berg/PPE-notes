@@ -17,4 +17,6 @@ er = only for the number
 meiyou = not have
 
 bu with shi
-mei only with you
+mei  with you
+other words can be done by both (but usually with bu)
+
