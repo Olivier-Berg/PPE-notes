@@ -52,3 +52,4 @@ renshi = for person
 wo renshi ta (i know him)
 ik know (zhidao) who you are
 
+shi in laoshi is very similar to shuai 老师 (only with the hat)
