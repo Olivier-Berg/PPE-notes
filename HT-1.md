@@ -51,3 +51,4 @@ renshi = to know = zhidao
 renshi = for person
 wo renshi ta (i know him)
 ik know (zhidao) who you are
+
