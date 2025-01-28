@@ -24,3 +24,7 @@ other words can be done by both (but usually with bu)
 ni zuo shenme gongzuo
 wo shi yisheng
 wo zuo yisheng gongzuo
+
+zhe = this
+
+shei = who (can be anywhere in sentence)
