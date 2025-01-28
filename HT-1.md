@@ -47,3 +47,5 @@ ni er shi sui zuoyou (you are around 20)
 sui can be dropped in positive sentence (i 18 years old)
 but not under 10, or negative sentences
 
+renshi = to know = zhidao
+renshi
