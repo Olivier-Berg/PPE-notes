@@ -44,4 +44,6 @@ wo shi ba sui = im 18
 zuoyou = around
 ni er shi sui zuoyou (you are around 20)
 
-sui can be dropped in positive sentence (i 18 years od)
+sui can be dropped in positive sentence (i 18 years old)
+but not under 10, or negative sentences
+
