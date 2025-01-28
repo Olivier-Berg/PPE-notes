@@ -56,3 +56,7 @@ shi in laoshi is very similar to shuai 老师 (only with the hat)
 
 best = zui hao (most good) superlative
 zui xihuan = favourite (most like)
+
+
+basketball (the radicals in basket are bamboo)
+
