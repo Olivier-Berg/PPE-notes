@@ -32,3 +32,5 @@ shei = who (can be anywhere in sentence)
 
 wang = particular person
 
+
+
