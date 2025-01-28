@@ -53,3 +53,6 @@ wo renshi ta (i know him)
 ik know (zhidao) who you are
 
 shi in laoshi is very similar to shuai 老师 (only with the hat)
+
+best = zui hao (most good) superlative
+zui xihuan = favourite (most like)
