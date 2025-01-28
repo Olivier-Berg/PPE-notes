@@ -1,6 +1,7 @@
 kinship terms and occupation terms:
 
 yisheng - docter
+lao shi = teacher 老师
 
 ---
 
@@ -30,3 +31,4 @@ zhe = this
 shei = who (can be anywhere in sentence)
 
 wang = particular person
+
