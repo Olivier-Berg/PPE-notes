@@ -34,4 +34,4 @@ wang = just a last name
 
 ta xing wang
 
-
+![[Scherm­afbeelding 2025-01-28 om 18.11.19.png]]
