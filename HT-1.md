@@ -39,7 +39,7 @@ ta xing wang
 ni duo da = how old are you
 ta ji sui = how many years old (use when person is child under 10), can also mean that you are acting like a child (how old are you???)
 
-wo shi ba sui = im 18
+wo shi ba sui = im 18 = wo shi ba
 
 zuoyou = around
 ni er shi sui zuoyou (you are around 20)
@@ -48,4 +48,6 @@ sui can be dropped in positive sentence (i 18 years old)
 but not under 10, or negative sentences
 
 renshi = to know = zhidao
-renshi
+renshi = for person
+wo renshi ta (i know him)
+ik know (zhidao) who you are
