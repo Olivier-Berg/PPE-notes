@@ -42,4 +42,6 @@ ta ji sui = how many years old (use when person is child under 10), can also mea
 wo shi ba sui = im 18
 
 zuoyou = around
-ni er shi sui zuo
+ni er shi sui zuoyou (you are around 20)
+
+sui can be dropped in positive sentence (i 18 years od)
