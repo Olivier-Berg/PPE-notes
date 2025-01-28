@@ -30,7 +30,8 @@ zhe = this
 
 shei = who (can be anywhere in sentence)
 
-wang = particular person
+wang = just a last name
 
+ta xing wang
 
 
