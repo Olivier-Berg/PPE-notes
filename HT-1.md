@@ -10,3 +10,9 @@ wo jia you ... kou ren = my family has ...  people
 he = and, never use to link sentences only for enumerations:
 only for wo de jia you baba, mama he didi.
 
+wo you liang ge gege = i have two brothers
+liang = two when with a counting word
+er = only for the number
+
+meiyou = not have
+
