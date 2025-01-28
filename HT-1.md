@@ -37,4 +37,5 @@ ta xing wang
 ![[Scherm­afbeelding 2025-01-28 om 18.11.19.png]]
 
 ni duo da = how old are you
-ta ji sui = how many years old (use when person is child )
+ta ji sui = how many years old (use when person is child under 10), can also mean that you are acting like a child (how old are you???)
+
