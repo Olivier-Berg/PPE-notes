@@ -21,6 +21,6 @@ mei  with you
 other words can be done by both (but usually with bu)
 
 ---
-ni zuo shenme gongzou
+ni zuo shenme gongzuo
 wo shi yisheng
-wo
+wo zuo yisheng gongzuo
