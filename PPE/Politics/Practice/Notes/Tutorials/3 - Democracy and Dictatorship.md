@@ -1,7 +1,7 @@
 **Essay plan:**
 Talk about hybrid regimes, surely it should be possible to say about authoritarian regimes that it becomes *more* democratic.
 
-Although many authoritarian regimes can no longer be seen as
+Although many authoritarian regimes can no longer be seen as in transition but rather as hybrid regimes, it argue that it is still possible for certain regimes to become more or less democratic. (give example)
 
 *We can say a measure of democracy has construct validity*
 *if the measure is a good predictor of phenomena that are*
