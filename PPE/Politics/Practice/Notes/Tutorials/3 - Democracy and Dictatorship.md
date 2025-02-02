@@ -15,4 +15,10 @@
 *which we have clear expectations about the behavior of*
 *democracies.*
 (Elikins, 2000)
--> Ther
+-> Therefore, continuous measure is better.
+
+*Przeworski, Alvarez, Cheibub, and Limongi describe this
+practice as "ludicrous" and insist on dichotomous measures (Alvarez et al.
+1996, 21; Przeworski et al. 1996; Przeworski and Limongi 1997, 178-179).
+Their position, which is shared by other prominent scholars (e.g., Linz
+1975, 184-185; Huntington 1991, 11-12), is surprising.*
