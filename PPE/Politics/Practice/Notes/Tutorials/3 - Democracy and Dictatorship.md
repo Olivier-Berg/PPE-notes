@@ -36,3 +36,5 @@ Their position, which is shared by other prominent scholars (e.g., Linz
 *graded measures (Alvarez et al. 1996, 31). In sum, they argue that efforts to
 look for traces of democracy in "nondemocracies" are
 both invalid and excessively error-prone.*
+
+
