@@ -33,5 +33,6 @@ Their position, which is shared by other prominent scholars (e.g., Linz
 *fying (e.g., Sartori 1970, 1036-1040). Their reliability claim is that, even ifit*
 *made sense to measure gradations of democracy, dichotomous measures*
 *would be preferable because they contain less measurement error than do*
-*graded measures (Alvarez et al. 1996, 31). In sum, they argue that efforts to look for traces of democracy in "nondemocracies" are
+*graded measures (Alvarez et al. 1996, 31). In sum, they argue that efforts to
+look for traces of democracy in "nondemocracies" are
 both invalid and excessively error-prone.*
