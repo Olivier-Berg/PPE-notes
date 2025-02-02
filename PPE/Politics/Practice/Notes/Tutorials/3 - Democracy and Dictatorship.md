@@ -37,4 +37,5 @@ Their position, which is shared by other prominent scholars (e.g., Linz
 look for traces of democracy in "nondemocracies" are
 both invalid and excessively error-prone.*
 
-
+*Second, this choice is important because it affects substantive findings of research on democracy. Although alternative dichotomous and graded measures are strongly corre- lated with one another (Alvarez et al 1996:21), Elkins (1999) has shown that, in assessing the impact of regime type on the initiation of war, a graded meas- ure reveals interesting incremental effects that would not be detected with a dichotomy*
+Collier, David and Robert Adcock (1999)
