@@ -1,3 +1,18 @@
 **Essay plan:**
-Either democracy or not democracy, what would a halfway democracy even look like?
-Dahl, it is continuous.
+*We can say a measure of democracy has construct validity*
+*if the measure is a good predictor of phenomena that are*
+*widely hypothesized to be associated with democracy.2 In*
+*the case of graded and dichotomous measures, their rela-*
+*tive degree of construct validity will depend upon the*
+*predictive power one gains by measuring gradations*
+*within would-be dichotomous categories. If changes in*
+*the degree of democracy are just as meaningful for "non-*
+*democracies" as they are for "democracies," then it makes*
+*sense to measure the degree of democracy even among*
+*the "nondemocracies." In order to evaluate the construct*
+*validity of the measures, I have chosen two domains of*
+*study-international conflict and regime stability-for*
+*which we have clear expectations about the behavior of*
+*democracies.*
+(Elikins, 2000)
+-> Ther
