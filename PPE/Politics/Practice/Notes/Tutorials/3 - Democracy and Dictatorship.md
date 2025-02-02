@@ -1,6 +1,8 @@
 **Essay plan:**
 Talk about hybrid regimes, surely it should be possible to say about authoritarian regimes that it becomes *more* democratic.
 
+Although many authoritarian regimes can no longer be seen as
+
 *We can say a measure of democracy has construct validity*
 *if the measure is a good predictor of phenomena that are*
 *widely hypothesized to be associated with democracy.2 In*
