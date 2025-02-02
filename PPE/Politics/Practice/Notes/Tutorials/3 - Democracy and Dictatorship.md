@@ -43,3 +43,5 @@ both invalid and excessively error-prone.*
 Collier, David and Robert Adcock (1999)
 
 *Our pragmatic approach also shares important concerns with the focus on “construct validity,” which is one central consideration in efforts by quantita- tive researchers in political science to evaluate choices about concepts and operationalization (Zeller & Carmines 1980:79–81)*
+
+*Central to Sartori’s view of concepts, as formulated in his classic article on “concept misformation” (1970), is the argument that concept formation is in- herently based on classification and that dichotomies are therefore fundamen- tal to reasoning about concepts*
