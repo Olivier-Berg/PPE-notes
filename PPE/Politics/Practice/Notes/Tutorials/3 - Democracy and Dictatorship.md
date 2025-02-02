@@ -1,4 +1,6 @@
 **Essay plan:**
+Talk about hybrid regimes, surely it should be possible to say about a authoritarian regimes that it becomes *more* democratic
+
 *We can say a measure of democracy has construct validity*
 *if the measure is a good predictor of phenomena that are*
 *widely hypothesized to be associated with democracy.2 In*
@@ -45,3 +47,4 @@ Collier, David and Robert Adcock (1999)
 *Our pragmatic approach also shares important concerns with the focus on “construct validity,” which is one central consideration in efforts by quantita- tive researchers in political science to evaluate choices about concepts and operationalization (Zeller & Carmines 1980:79–81)*
 
 *Central to Sartori’s view of concepts, as formulated in his classic article on “concept misformation” (1970), is the argument that concept formation is in- herently based on classification and that dichotomies are therefore fundamen- tal to reasoning about concepts*
+
