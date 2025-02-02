@@ -3,7 +3,7 @@ Talk about hybrid regimes, surely it should be possible to say about authoritari
 
 Although many authoritarian regimes can no longer be seen as in transition but rather as hybrid regimes, it argue that it is still possible for certain regimes to become more or less democratic. (give example)
 
-Talk about how you can be pragmatic, sometimes better to use dichotomatic/continuous approach dependant on certain circumstances. 
+
 
 *We can say a measure of democracy has construct validity*
 *if the measure is a good predictor of phenomena that are*
@@ -46,6 +46,9 @@ both invalid and excessively error-prone.*
 *Second, this choice is important because it affects substantive findings of research on democracy. Although alternative dichotomous and graded measures are strongly corre- lated with one another (Alvarez et al 1996:21), Elkins (1999) has shown that, in assessing the impact of regime type on the initiation of war, a graded meas- ure reveals interesting incremental effects that would not be detected with a dichotomy*...Similarly, Coppedge (1997: 181, 189–97) finds that in cross-national tests evaluating explanations for levels of polyarchy, different results emerge depending on which cut-point is employed in creating a dichotomous measure of polyarchy. Restricting the analysis to any single dichotomous cut-point can thus obscure potential find- ings.
 
 *Among the authors who have advocated an approach based on grading and ranking, Bollen & Jackman argue that “democracy is always a matter of de- gree” and that treating it as dichotomous is a “flawed” practice (1989:618, 612). A graded perspective is likewise adopted by Dahl, using the term poly- archy (1971:2, 8, 231–35; 1989:241, 316–17), and later by Coppedge & Rein- icke (1990). By contrast, Sartori finds that treating the distinction between democracy and nondemocracy in graded terms is an analytically “stultifying” exercise in “degreeism,” which misses the basic fact that political systems are “bounded wholes” (1987:184; also 1991:248). Other scholars who have adopted a dichotomous approach include Linz (1975:184–85), Huntington (1991:11–12), and Geddes (1999). Przeworski and collaborators have speci- fically rejected Bollen & Jackman’s argument as “confused” because it does not recognize that regimes “cannot be half-democratic: there is a natural zero point” (Alvarez et al 1996:21). Their position is especially striking because their larger project (Przeworski et al 1996, Przeworski & Limongi 1997) is based on quantitative data and sophisticated forms of statistical analysis. Yet when it comes to measuring democracy versus nondemocracy, they select a dichotomy*
+
+Talk about how you can be pragmatic, sometimes better to use dichotomatic/continuous approach dependant on certain circumstances. 
+
 Collier, David and Robert Adcock (1999)
 
 *Our pragmatic approach also shares important concerns with the focus on “construct validity,” which is one central consideration in efforts by quantita- tive researchers in political science to evaluate choices about concepts and operationalization (Zeller & Carmines 1980:79–81)*
