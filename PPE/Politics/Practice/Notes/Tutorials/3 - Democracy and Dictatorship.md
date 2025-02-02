@@ -22,3 +22,10 @@ practice as "ludicrous" and insist on dichotomous measures (Alvarez et al.
 1996, 21; Przeworski et al. 1996; Przeworski and Limongi 1997, 178-179).
 Their position, which is shared by other prominent scholars (e.g., Linz
 1975, 184-185; Huntington 1991, 11-12), is surprising.*
+
+Przeworski et al.'s argument, which is rep-
+resentative of the dichotomous view, rests on two logically independent
+claims-one about validity and one about reliability. Their validity claim is
+that democracy is first a question of kind before it is one of degree, and we
+cannot measure the degree of democracy across different "kinds" of re-
+gimes (Alvarez et al. 1996, 21-22).1*
