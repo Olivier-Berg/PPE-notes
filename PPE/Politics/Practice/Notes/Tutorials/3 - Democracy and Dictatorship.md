@@ -3,6 +3,8 @@ Talk about hybrid regimes, surely it should be possible to say about authoritari
 
 Although many authoritarian regimes can no longer be seen as in transition but rather as hybrid regimes, it argue that it is still possible for certain regimes to become more or less democratic. (give example)
 
+Talk about how you can be pragmatic, sometimes better to use dichotomatic/continuous approach dependant on certain circumstances. 
+
 *We can say a measure of democracy has construct validity*
 *if the measure is a good predictor of phenomena that are*
 *widely hypothesized to be associated with democracy.2 In*
