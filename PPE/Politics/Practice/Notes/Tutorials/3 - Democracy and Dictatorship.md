@@ -55,3 +55,5 @@ Collier, David and Robert Adcock (1999)
 
 *Central to Sartori’s view of concepts, as formulated in his classic article on “concept misformation” (1970), is the argument that concept formation is in- herently based on classification and that dichotomies are therefore fundamen- tal to reasoning about concepts*
 
+
+*Bollen builds on this conceptual claim to make a further argument in favor of gradations based on a concern about measurement error (1990:14). He ar- gues that, although both approaches introduce substantial measurement error because they fail to capture fully the continuous nature of political democracy, there are reasons to favor a graded approach. Bollen believes that “we can do better than dichotomous or three-point scales” and that a dichotomy is “crude” relative to the ordinal scales we can produce (1990:18).*
