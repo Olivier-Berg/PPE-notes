@@ -17,3 +17,9 @@ wo he jia ren xianzaizhuzaishanghai
 
 dong = move
 wu = type of things so moving things = animal
+shengwu = biology
+生物
+
+xiong = bear
+mao = cat
+xiongmao = bearcat = 
