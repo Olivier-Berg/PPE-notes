@@ -65,7 +65,7 @@ nianqingren
 middleaged people:
 zhongnianren
 old people
-laoni aren
+laonianren
 
 ---
 
