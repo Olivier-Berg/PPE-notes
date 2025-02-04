@@ -63,9 +63,9 @@ basketball (the radicals in basket are bamboo)
 young people:
 nianqingren
 middleaged people:
-zhongqingren
+zhongnianren
 old people
-laoqingren
+laoni aren
 
 ---
 
