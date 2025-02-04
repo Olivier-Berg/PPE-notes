@@ -25,5 +25,5 @@ mao = cat
 xiongmao = bearcat = panda
 
 
-nan = male nan
-nu = female
+nan = male (actor )
+nu = female (actress with nuyanyuan)
