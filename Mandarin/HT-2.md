@@ -22,4 +22,5 @@ shengwu = biology
 
 xiong = bear
 mao = cat
-xiongmao = bearcat = 
+xiongmao = bearcat = panda
+
