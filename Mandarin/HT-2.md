@@ -31,3 +31,5 @@ nu = female (actress with nuyanyuan)
 ![[Scherm­afbeelding 2025-02-04 om 18.37.45.png]]
 if you say:
 wang yu (de) zui xihuan 
+
+wei4shenme = why
