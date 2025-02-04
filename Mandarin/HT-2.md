@@ -24,3 +24,6 @@ xiong = bear
 mao = cat
 xiongmao = bearcat = panda
 
+
+nan = male
+nu = 
