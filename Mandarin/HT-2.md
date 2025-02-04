@@ -25,5 +25,5 @@ mao = cat
 xiongmao = bearcat = panda
 
 
-nan = male
-nu = 
+nan = male nan
+nu = female
