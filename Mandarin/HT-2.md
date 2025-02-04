@@ -9,4 +9,6 @@ babahengao
 mamabushi
 huanlangqou
 
-wo he jia ren shan zai
+wo he jia ren xianzaizhuzaishanghai
+我和家人现在住在上海
+我he
