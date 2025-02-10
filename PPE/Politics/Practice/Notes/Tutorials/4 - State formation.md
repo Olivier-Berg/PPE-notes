@@ -3,3 +3,6 @@ The historical record is clear on this point; for a brief synopsis, Ames and Rap
 
 Two of the best overviews of European state formation are Badie and Birnbaum (1983) and Poggi (1978). For a more
 extensive discussion of state formation and regime type, see Bendix (1978
+
+
+jared diamond argument for why eurazia had states but africa did not.
