@@ -12,3 +12,4 @@ yi = hundred million
 
 before these words for 2 you must say liang, but now people can't be bothered anymore
 
+wanwan = yi sometimes (10thousand * 10thousand = 100 million)
