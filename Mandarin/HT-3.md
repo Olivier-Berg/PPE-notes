@@ -30,13 +30,16 @@ chinese numbers are organized between 4 digits:
 dian = electricity
 hua = speech
 
-hao = date
+hao = number/date
 ma = stack/piled
 
 shou = hand
 ji = machine
 
 duoshao can also be used for small numbers and big number, ji cannot be used for small numbers
+
+gong = public
+yuan = garden
 
 
 
