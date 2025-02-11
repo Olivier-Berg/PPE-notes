@@ -10,4 +10,5 @@ qian = thousand
 wan = ten thousand
 yi = hundred million
 
-before these words for 2 you must say liang
+before these words for 2 you must say liang, but now people can't be bothered anymore
+
