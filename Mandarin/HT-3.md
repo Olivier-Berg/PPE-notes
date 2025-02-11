@@ -47,4 +47,4 @@ yuan = garden
 
 yao = yi = 1 when speaking
 
-dian was dot, now most peopl
+dian was dot, now most people use dot. @ was smallmouse but now just "at"
