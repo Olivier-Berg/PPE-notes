@@ -46,3 +46,5 @@ yuan = garden
 ![[Scherm­afbeelding 2025-02-11 om 18.33.47.png]]
 
 yao = yi = 1 when speaking
+
+dian was dot, now most peopl
