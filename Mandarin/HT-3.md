@@ -7,4 +7,5 @@ nianling:
 
 bai = 100
 qian = thousand
-wan = ten
+wan = ten thousand
+yi = hundred million
