@@ -44,7 +44,7 @@ wo shi ba sui = im 18 = wo shi ba
 zuoyou = around
 ni er shi sui zuoyou (you are around 20)
 
-sui can be dropped in positive sentence (im 18 years old)
+sui can be dropped in positive sentence (i 18 years old)
 but not under 10, or negative sentences
 
 renshi = to know = zhidao
