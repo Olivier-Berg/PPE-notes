@@ -9,3 +9,5 @@ bai = 100
 qian = thousand
 wan = ten thousand
 yi = hundred million
+
+before these words for 2 you must say liang
