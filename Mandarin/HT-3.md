@@ -20,3 +20,6 @@ ling is asid only once when it is between two numbers, even when representing mo
 101 = yibai ling yi
 4005 = siqian ling wu
 800080 = bashi wan ling bashi
+
+
+8000 = baqian (no zl)
