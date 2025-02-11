@@ -25,3 +25,5 @@ ling is asid only once when it is between two numbers, even when representing mo
 
 chinese numbers are organized between 4 digits:
 80,0000,0000,0000
+
+![[Scherm­afbeelding 2025-02-11 om 18.33.34.png]]
