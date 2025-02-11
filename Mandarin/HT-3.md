@@ -15,3 +15,8 @@ before these words for 2 you must say liang, but now people can't be bothered an
 wanwan = yi sometimes (10thousand * 10thousand = 100 million)
 
 when used 0 before these (ling), you omit the bai/qian etc.
+
+ling is asid only once when it is between two numbers, even when representing more than 1 zero:
+101 = yibai ling yi
+4005 = siqian ling wu
+800080 = ba
