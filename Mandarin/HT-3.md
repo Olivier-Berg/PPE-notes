@@ -22,4 +22,4 @@ ling is asid only once when it is between two numbers, even when representing mo
 800080 = bashi wan ling bashi
 
 
-8000 = baqian (no zl)
+8000 = baqian (no zeros)
