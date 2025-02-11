@@ -19,4 +19,4 @@ when used 0 before these (ling), you omit the bai/qian etc.
 ling is asid only once when it is between two numbers, even when representing more than 1 zero:
 101 = yibai ling yi
 4005 = siqian ling wu
-800080 = ba
+800080 = bashi wan ling bashi
