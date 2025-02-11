@@ -28,7 +28,10 @@ chinese numbers are organized between 4 digits:
 
 ![[Scherm­afbeelding 2025-02-11 om 18.33.34.png]]
 dian = electricity
+hua = speech
 
+hao = date
+ma = 
 
 
 ![[Scherm­afbeelding 2025-02-11 om 18.33.47.png]]
