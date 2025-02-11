@@ -31,7 +31,14 @@ dian = electricity
 hua = speech
 
 hao = date
-ma = 
+ma = stack/piled
+
+shou = hand
+ji = machine
+
+
+
+
 
 
 ![[Scherm­afbeelding 2025-02-11 om 18.33.47.png]]
