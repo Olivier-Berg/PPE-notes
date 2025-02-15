@@ -18,3 +18,28 @@ For your further reading, I’d recommend:
     - **Andrews (2001), “Social Movements and Policy Implementation”** – Examines the Mississippi Civil Rights Movement’s effects.
     - **Reny & Newman (2021), “The Opinion-Mobilizing Effect of Social Protest”** – Looks at the impact of the 2020 George Floyd protests.
     - **Sergi & Vogiatzoglou (2013), “Think Globally, Act Locally?”** – Comparative study of mobilization across different contexts.
+
+
+Great choice! Focusing on **networks and organizations** will allow you to engage with important debates on how movement structure, alliances, and resource mobilization shape outcomes. Here are the most relevant readings for your focus:
+
+### **1. Core Readings on Networks & Organizations**
+
+- **Ganz (2003), “Why David Sometimes Wins”** – A must-read on how strategic capacity, leadership, and networks determine movement success.
+- **Della Porta & Diani (2015), _The Oxford Handbook of Social Movements_** – Contains multiple chapters on organizational structures and coalitions.
+- **McAdam (2017), “Social Movement Theory and the Prospects for Climate Change Activism”** – Discusses movement networks and their role in sustaining activism.
+- **Císař (2015), “Social Movements in Political Science”** – Examines how political science conceptualizes movement organizations and networks.
+
+### **2. Networks, Resource Mobilization, and Organizations**
+
+- **Amenta et al. (2010), “The Political Consequences of Social Movements”** – Investigates how movement organizations influence long-term success.
+- **Piven & Cloward (1979), _Poor People’s Movements_** – Argues that formal organizations can sometimes constrain movements rather than help them.
+- **Eggert & Giugni (2015), “Migration and Social Movements”** – Explores how networks among migrant communities shape movement success.
+- **Barker & Lavalette (2015), “Welfare Changes and Social Movements”** – Analyzes how movement organizations interact with policy changes.
+
+### **3. Digital Networks & Contemporary Movements**
+
+- **Caren, Andrews & Lu (2020), “Contemporary Social Movements in a Hybrid Media Environment”** – Focuses on how online and offline networks interact.
+- **Garza (2021), _The Purpose of Power_** – Discusses how BLM used decentralized organizational structures to mobilize support.
+- **Reny & Newman (2021), “The Opinion-Mobilizing Effect of Social Protest”** – Looks at how BLM’s networked activism shaped public opinion.
+
+These readings will help you analyze **how movement structure, leadership, and alliances contribute to success or failure**. Would you like help structuring your argument or finding case studies to illustrate your points?
