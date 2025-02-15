@@ -43,3 +43,25 @@ Great choice! Focusing on **networks and organizations** will allow you to engag
 - **Reny & Newman (2021), “The Opinion-Mobilizing Effect of Social Protest”** – Looks at how BLM’s networked activism shaped public opinion.
 
 These readings will help you analyze **how movement structure, leadership, and alliances contribute to success or failure**. Would you like help structuring your argument or finding case studies to illustrate your points?
+
+Absolutely! Here are the most relevant chapters from _The Oxford Handbook of Social Movements_ (edited by Della Porta & Diani) that specifically address networks, organizations, and their impact on movement success:
+
+### **1. Movement Structures & Organizational Forms**
+
+- **Della Porta, Donatella & Mario Diani (2015), "The Development of Social Movement Research"** – Provides an overview of how movement networks and organizations have been studied.
+- **Císař, Ondřej (2015), "Social Movements in Political Science"** – Examines the role of movement structures and their effects on political outcomes.
+
+### **2. Networks, Coalitions, and Resource Mobilization**
+
+- **Andretta, Massimiliano, Gianni Piazza, & Anna Subirats (2015), "Urban Dynamics and Social Movements"** – Discusses how urban networks shape the mobilization and success of movements.
+- **Eggert, Nina & Marco Giugni (2015), "Migration and Social Movements"** – Explores how migrant networks impact movement strength and sustainability.
+- **Silver, Beverly J. & Sahan Savas Karatasli (2015), "Historical Dynamics of Capitalism and Labor Movements"** – Examines how labor movement organizations have succeeded or failed based on their network structures.
+- **Tarrow, Sidney (2015), "Contentious Politics"** – Looks at how transnational movement networks shape political opportunities.
+
+### **3. Institutions, Alliances, and Political Impact**
+
+- **Barker, Colin & Michael Lavalette (2015), "Welfare Changes and Social Movements"** – Analyzes how movement organizations engage with institutions to achieve success.
+- **Rootes, Christopher & Eugene Nulman (2015), "The Impacts of Environmental Movements"** – Investigates how environmental movements use networks and alliances to influence policy.
+- **Muro, Diego (2015), "Ethnicity, Nationalism, and Social Movements"** – Discusses how ethnic and nationalist movements rely on networks for success.
+
+These readings will help you build a strong theoretical foundation for analyzing how **organizational structures and networks contribute to movement success or failure**. Do you want help synthesizing key arguments or linking these to case studies?
