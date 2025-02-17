@@ -69,3 +69,4 @@ These readings will help you build a strong theoretical foundation for analyzing
 ---
 
 Tilly argues that social movements emerge out of the emergence of the modern state
+
