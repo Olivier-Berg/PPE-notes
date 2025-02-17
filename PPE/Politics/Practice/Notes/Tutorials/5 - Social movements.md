@@ -70,3 +70,4 @@ These readings will help you build a strong theoretical foundation for analyzing
 
 Tilly argues that social movements emerge out of the emergence of the modern state
 
+political opportunities are a sweetspot in the middle (if theres already a party theres no need and if the pary is too strong then it is impossible because you are repressed)
