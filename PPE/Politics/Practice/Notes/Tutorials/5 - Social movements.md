@@ -65,3 +65,7 @@ Absolutely! Here are the most relevant chapters from _The Oxford Handbook of Soc
 - **Muro, Diego (2015), "Ethnicity, Nationalism, and Social Movements"** – Discusses how ethnic and nationalist movements rely on networks for success.
 
 These readings will help you build a strong theoretical foundation for analyzing how **organizational structures and networks contribute to movement success or failure**. Do you want help synthesizing key arguments or linking these to case studies?
+
+---
+
+Tilly argues that social movements emerge out of the emergence of the modern state
