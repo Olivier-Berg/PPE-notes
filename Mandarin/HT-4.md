@@ -60,3 +60,6 @@ tuichu = quit
 
 
 ![[Scherm­afbeelding 2025-02-18 om 18.28.58.png]]
+
+
+gei 
