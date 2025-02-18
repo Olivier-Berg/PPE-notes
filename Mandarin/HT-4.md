@@ -91,4 +91,4 @@ for sunday you use ri = sun or tian = sky
 sunday = xingqiri/xingqitian
 
 large to small:
-nian + yue 
+nian + yue + ri + xingqi
