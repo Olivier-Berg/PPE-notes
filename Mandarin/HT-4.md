@@ -8,4 +8,7 @@ ne = 呢
 
 
 住 = zhu = live
-在
+在 = zai = in，at
+
+
+name xing, jiao
