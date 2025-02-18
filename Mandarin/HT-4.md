@@ -79,3 +79,5 @@ for yean (nian), you read out the digits separately and then say nian
 2007 = er ling ling qi nian
 1995 you dont say ningeteen ninetyfive, just read out the digits separately
 
+the month is by adding the number in front of yue
+january = yiyue
