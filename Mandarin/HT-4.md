@@ -35,3 +35,5 @@ fang = building/house
 jian = divide
 
 keyi = you are being allowed
+
+da = hate/smash
