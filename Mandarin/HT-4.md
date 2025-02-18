@@ -92,3 +92,11 @@ sunday = xingqiri/xingqitian
 
 large to small:
 nian + yue + ri + xingqi
+
+
+---
+
+jintian = today
+zuotian = yesterday
+mingtian = tomorrow
+hou
