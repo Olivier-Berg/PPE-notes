@@ -25,3 +25,5 @@ wo shuo yingyu
 wo zhu zai merton lu
 wo de shouji haoma shi 31...
 wo de dianji youxiang shi olivier@lombok.nl
+
+![[Scherm­afbeelding 2025-02-18 om 18.21.51.png]]
