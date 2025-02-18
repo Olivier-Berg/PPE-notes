@@ -62,4 +62,6 @@ tuichu = quit
 ![[Scherm­afbeelding 2025-02-18 om 18.28.58.png]]
 
 
-gei 
+ta gei wo da dianhua
+you to me make call
+
