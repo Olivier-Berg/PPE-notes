@@ -103,3 +103,6 @@ houtian = the day after tomorrow
 qiantian = the day before yesterday
 shengri = birthday
 
+two days after tomorrow = dahaotian (big...)
+two days before yesterday = daqiantian (big...)
+
