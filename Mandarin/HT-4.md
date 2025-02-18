@@ -81,3 +81,7 @@ for yean (nian), you read out the digits separately and then say nian
 
 the month is by adding the number in front of yue
 january = yiyue
+
+17 oktober = shiyue shiqi hao (from big to small)
+
+weeks (xingqi) you add the nu
