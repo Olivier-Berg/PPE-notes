@@ -12,3 +12,6 @@ ne = 呢
 
 
 name xing, jiao
+daxuesheng
+wo shi 
+niujin
