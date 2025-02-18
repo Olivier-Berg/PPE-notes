@@ -99,4 +99,7 @@ nian + yue + ri + xingqi
 jintian = today
 zuotian = yesterday
 mingtian = tomorrow
-hou
+houtian = the day after tomorrow
+qiantian = the day before yesterday
+shengri = birthday
+
