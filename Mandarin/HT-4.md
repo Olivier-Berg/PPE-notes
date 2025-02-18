@@ -71,6 +71,8 @@ nian = year
 yue = month
 ri (or hao) = date (when we speak you usually use hao, when writing you use ri)
 xingqi = week
+qi = period
 
+xueqi = term (studyperiod)
 
-
+for yean (nian)
