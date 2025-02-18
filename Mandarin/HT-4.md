@@ -45,3 +45,9 @@ senditemperson = sender
 
 shoudao = received/have received
 shou = receive (book is wrong)
+
+shoujianren = receiver (=receive item person)
+
+![[Scherm­afbeelding 2025-02-18 om 18.27.56.png]]
+
+duan = shot
