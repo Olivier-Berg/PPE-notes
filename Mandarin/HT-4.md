@@ -84,4 +84,8 @@ january = yiyue
 
 17 oktober = shiyue shiqi hao (from big to small)
 
-weeks (xingqi) you add the nu
+weeks (xingqi) you add the number after xingqi (1-6), for sunday 
+monday = xingqiyi
+tuesday = xingqier
+for sunday you use ri = sun or tian = sky
+sunday = xingqiri/xingqi
