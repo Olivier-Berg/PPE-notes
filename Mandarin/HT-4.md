@@ -69,4 +69,8 @@ you to me make call
 
 nian = year
 yue = month
-ri (or hao) = date
+ri (or hao) = date (when we speak you usually use hao, when writing you use ri)
+xingqi = week
+
+
+
