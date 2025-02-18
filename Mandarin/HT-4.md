@@ -101,7 +101,7 @@ zuotian = yesterday
 mingtian = tomorrow
 houtian = the day after tomorrow
 qiantian = the day before yesterday
-shengri = birthday
+shengri = birthday (sheng=birth)
 
 two days after tomorrow = dahaotian (big...)
 two days before yesterday = daqiantian (big...)
