@@ -50,4 +50,11 @@ shoujianren = receiver (=receive item person)
 
 ![[Scherm­afbeelding 2025-02-18 om 18.27.56.png]]
 
-duan = shot
+duan = short
+xin = letter
+xin duanxin = new message
+
+![[Scherm­afbeelding 2025-02-18 om 18.28.47.png]]
+
+
+![[Scherm­afbeelding 2025-02-18 om 18.28.58.png]]
