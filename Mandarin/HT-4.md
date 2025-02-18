@@ -65,3 +65,8 @@ tuichu = quit
 ta gei wo da dianhua
 you to me make call
 
+---
+
+nian = year
+yue = month
+ri (or hao) = date
