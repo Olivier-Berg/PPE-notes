@@ -28,3 +28,7 @@ wo de dianji youxiang shi olivier@lombok.nl
 
 ![[Scherm­afbeelding 2025-02-18 om 18.21.51.png]]
 
+gong = public
+yu = building
+
+fang = building/
