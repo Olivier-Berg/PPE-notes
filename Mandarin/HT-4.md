@@ -88,4 +88,7 @@ weeks (xingqi) you add the number after xingqi (1-6), for sunday
 monday = xingqiyi
 tuesday = xingqier
 for sunday you use ri = sun or tian = sky
-sunday = xingqiri/xingqi
+sunday = xingqiri/xingqitian
+
+large to small:
+nian + yue 
