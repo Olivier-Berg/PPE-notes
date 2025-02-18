@@ -19,5 +19,7 @@ wo de jia you wu kou ren
 wo you yi ge gege
 wo you yi ge didi
 wo de jia zhu zai utrecht
+wo baba bu shi yisheng
+wo zhu zai merton lu
 wo de shouji haoma shi 31...
 wo de dianji youxiang shi olivier@lombok.nl
