@@ -53,6 +53,8 @@ shoujianren = receiver (=receive item person)
 duan = short
 xin = letter
 xin duanxin = new message
+xuanxian = menu
+tuichu = quit
 
 ![[Scherm­afbeelding 2025-02-18 om 18.28.47.png]]
 
