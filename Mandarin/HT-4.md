@@ -37,3 +37,11 @@ jian = divide
 keyi = you are being allowed
 
 da = hate/smash
+
+fa = send
+jian = item
+ren = person
+senditemperson = sender
+
+shoudao = received/have received
+shou = receive (book is wrong)
