@@ -15,5 +15,9 @@ name xing, jiao
 wo shi daxuesheng
 wo zhu zai niujin
 wo shi helan ren
+wo de jia you wu kou ren
+wo you yi ge gege
+wo you yi ge didi
+wo de jia zhu zai utrecht
 wo de shouji haoma shi 31...
-wo de dianji youxiang
+wo de dianji youxiang shi olivier@lombok.nl
