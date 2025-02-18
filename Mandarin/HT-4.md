@@ -31,4 +31,7 @@ wo de dianji youxiang shi olivier@lombok.nl
 gong = public
 yu = building
 
-fang = building/
+fang = building/house
+jian = divide
+
+keyi = you are being allowed
