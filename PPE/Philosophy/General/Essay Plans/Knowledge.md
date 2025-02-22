@@ -1,0 +1,3 @@
+- externalism reject KK principle
+- reliabilism says that if a belief is reliable, then it is also justified
+- but 
