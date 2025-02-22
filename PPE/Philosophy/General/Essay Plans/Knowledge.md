@@ -1,3 +1,4 @@
-- externalism reject KK principle
 - reliabilism says that if a belief is reliable, then it is also justified
-- but 
+- but then what about the new evil demon, then it is not very reliable
+- externalism rejects KK principle, you do not have to know that you know
+- but then 
