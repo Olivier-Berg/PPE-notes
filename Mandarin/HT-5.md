@@ -8,3 +8,7 @@ zaofan = breakfast (morning meal)
 zhongfan = lunch
 wanfan = dinner
 zhongguofan = chinese meal
+
+chu = kitchen
+fang = room/horese
+chushi = chef
