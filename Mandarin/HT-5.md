@@ -12,3 +12,8 @@ zhongguofan = chinese meal
 chu = kitchen
 fang = room/horese
 chushi = chef
+
+na=that
+zhe = this
+zheli = here
+
