@@ -1,0 +1,1 @@
+for emphasis you can add 'shi' when you are talking about 
