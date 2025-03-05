@@ -43,3 +43,6 @@ relief net
 [https://www.careers.ox.ac.uk/micro-internships-sector-list](https://www.careers.ox.ac.uk/micro-internships-sector-list)
 
 wrtie in student newspaper to show my drafting skill
+
+---
+NCIF presentatie:
