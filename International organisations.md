@@ -22,7 +22,7 @@ Oxford internships progam
 
 15th January summer opens:
 
-[https://www.careers.ox.ac.uk/the-summer-internship-programme](https://www.careers.ox.ac.uk/the-summer-internship-programme)
+https://www.careers.ox.ac.uk/the-summer-internship-programme
 
 shadowing an mep
 
@@ -40,7 +40,7 @@ unjobs
 
 relief net
 
-[https://www.careers.ox.ac.uk/micro-internships-sector-list](https://www.careers.ox.ac.uk/micro-internships-sector-list)
+https://www.careers.ox.ac.uk/micro-internships-sector-list
 
 wrtie in student newspaper to show my drafting skill
 
