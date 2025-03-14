@@ -1,4 +1,2 @@
-$\alpha K^{1-\alpha}$
-
-
+$dY/dK$
 
