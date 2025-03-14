@@ -5,5 +5,5 @@ as s increases
 (1) you consume less
 (2) but because investment rises -> production rises -> total production rises
 
-first (2) is stronger
+first (2) is stronger, then (1) becomes stronger because the marginal product of capital reduces (mpk = a)
 
