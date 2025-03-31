@@ -34,7 +34,7 @@
 	- [ ] understand page 203
 - [ ] Geoffrey Sayre-McCord (2001). “Mill’s ‘Proof’ of the Principle of Utility: A More Than HalfHearted Defense”. Social Philosophy and Policy, 18 (2): 330–360
 - [ ] H.R. West (2006). “Mill’s ‘Proof’ of the Principle of Utility”. In: _The Blackwell Guide to Mill’s_ _Utilitarianism._ Ed. by H.R. West. London: Blackwell
-- [ ] Sturgeon, N, Ethical Naturalism‟, in Copp, D. (ed.), Oxford Handbook of Ethical Theory (OUP, 2006)
+- [x] Sturgeon, N, Ethical Naturalism‟, in Copp, D. (ed.), Oxford Handbook of Ethical Theory (OUP, 2006)
 
 ## Week 7
 - [x] Two essays: [[What kind of Utilitarian should we ascribe to Mill (and why)? Is this version plausible 1?.pdf]] and [[What kind of Utilitarian should we ascribe to Mill (and why)? Is this version plausible? 2.pdf]]
