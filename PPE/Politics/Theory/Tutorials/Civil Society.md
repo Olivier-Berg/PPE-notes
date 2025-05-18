@@ -12,3 +12,4 @@ In democracies, where individuals are equal and social ties are weaker than in a
 "The art of associating together must grow and improve in the same ratio in which the equality of conditions is increased"
 
 ##### Chapter 6: Of the Relation between Public Associations and Newspapers
+##### Chapter 7: Connection of Civil and Political Associations
