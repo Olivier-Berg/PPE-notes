@@ -5,4 +5,10 @@
 ##### Chapter 5
 Associations are more salient in America, go hand in hand with equality (as opposed to aristocracy where many powerless people can do nothing and one aristocrat can get a lot done, equality makes it so that people need to work together to get things done).
 
-Governments should not fulfil the role that associations do because:
+Governments should not fulfil the role that associations do.
+
+In democracies, where individuals are equal and social ties are weaker than in aristocracies, people tend to feel isolated and powerless. Associations give individuals a way to combine their strength to achieve common goals.
+
+"The art of associating together must grow and improve in the same ratio in which the equality of conditions is increased"
+
+##### Chapter 
