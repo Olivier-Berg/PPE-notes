@@ -61,7 +61,7 @@ To prove: ∀z (Pz ∨ ∃z Qzz) ⊢ Pc ∨ ∃z Qzz
 
 ∀z (Pz ∨ ∃z Qzz)
 
------------------------
+\-------------------
 
 Pc ∨ ∃z Qzz
 
@@ -81,4 +81,13 @@ Olivier
 
 ---
 
+
+Dear Olivier,
+
+Yes, the direction involving∀-elimination is okay; the problem comes in the other direction, with ∀-introduction, when one tries to show the logical equivalence of the sentences discussed in our previous email exchange.
+
+All best,
+
+
+---
 
