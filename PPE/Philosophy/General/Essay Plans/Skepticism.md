@@ -1,6 +1,0 @@
-- reliabilism says that if a belief is reliable, then it is also justified
-- but then what about the new evil demon, then it is not very reliable
-- externalism rejects KK principle, you do not have to know that you know
-- but then does knowledge become very weak, wouldn't someone then be able to say that people do not know whether they know something
-- burden of proof is on the sceptic (moore), so therefore it is fine
-- however, in doing this, the non-sceptic has conceded quite a lot (saying that you do not have to prove that it is true, or a form of normal-world reliabilism also gives up very much)
