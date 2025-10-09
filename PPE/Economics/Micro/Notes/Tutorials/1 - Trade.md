@@ -10,7 +10,7 @@ The thing about wages does not really matter, it is just separating price into w
 
 ---
 
-Feedback: [[Week 1.pdf]]
+Feedback: [[PPE/Economics/Micro/Problem Sheets/Week 1.pdf]]
 
 If both specialize, the total amount of possibilities increases.
 
