@@ -1,1 +1,0 @@
-. See Robert Stalnaker, "A Theory of Conditionals", in N. Rescher, ed., Studies in Logical Theory (Basil Blackwell, Oxford, 1968); David Lewis, Counterfactuals (Harvard University Press, Cambridge, 1973); and Jonathan Bennett's critical review of Lewis, "Counterfactuals and Possible Worlds", Canadian Journal o f Philosophy, Vol. IV, no. 2, Dec. 1974, pp. 381-402.
