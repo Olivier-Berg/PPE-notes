@@ -145,3 +145,13 @@ Olivier
 
 ---
 
+Dear Olivier,
+
+Thanks for following up on this. I see how the situation turns on what is intended by the informal "caught" here, and you've convinced me that there's a reading of this that ameliorates the problem I wrote about.
+
+Still, if one thinks that, given a dictionary, it should be possible to translate between English and _L2_ systematically, then it is neither clear how sentences like ∀x∃xGxx would ever arise as translations from English, nor obvious how to translate such sentences back into English. It's true that these sentences of _L2_ are logically equivalent to sentences that are natural translations of English sentences (and vice versa), but translation often tries to capture syntactic similarity in addition to semantic similarity. Whether this concern about translation has weight, of course, depends on one's conception of the relationship between formal and natural languages.
+
+Best,
+
+---
+he doesn't want to admit that i'm right, but i am
