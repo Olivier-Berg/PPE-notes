@@ -3,4 +3,4 @@ easy essay probably externalities or competition, also the question is quite sim
 i believe, though only empirically tested by looking at past papers that:
 - international trade
 - social choice
-are only tested on part B in an essay, so probably not necessary to revise all of them, maybe only one.
+are only tested on part B in an essay, so probably not necessary to revise, not sure though
